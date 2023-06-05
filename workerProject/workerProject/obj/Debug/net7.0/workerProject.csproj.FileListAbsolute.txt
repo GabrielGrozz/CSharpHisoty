@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\workerProject\workerProject\bin\Debug\net7.0\workerProject.exe
+C:\Users\Usuário\source\repos\workerProject\workerProject\bin\Debug\net7.0\workerProject.deps.json
+C:\Users\Usuário\source\repos\workerProject\workerProject\bin\Debug\net7.0\workerProject.runtimeconfig.json
+C:\Users\Usuário\source\repos\workerProject\workerProject\bin\Debug\net7.0\workerProject.dll
+C:\Users\Usuário\source\repos\workerProject\workerProject\bin\Debug\net7.0\workerProject.pdb
+C:\Users\Usuário\source\repos\workerProject\workerProject\obj\Debug\net7.0\workerProject.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\workerProject\workerProject\obj\Debug\net7.0\workerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\workerProject\workerProject\obj\Debug\net7.0\workerProject.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\workerProject\workerProject\obj\Debug\net7.0\workerProject.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\workerProject\workerProject\obj\Debug\net7.0\workerProject.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\workerProject\workerProject\obj\Debug\net7.0\workerProject.dll
+C:\Users\Usuário\source\repos\workerProject\workerProject\obj\Debug\net7.0\refint\workerProject.dll
+C:\Users\Usuário\source\repos\workerProject\workerProject\obj\Debug\net7.0\workerProject.pdb
+C:\Users\Usuário\source\repos\workerProject\workerProject\obj\Debug\net7.0\workerProject.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\workerProject\workerProject\obj\Debug\net7.0\ref\workerProject.dll

@@ -1,0 +1,15 @@
+D:\dev\C#\ifElse\ifElse\bin\Debug\net6.0\ifElse.exe
+D:\dev\C#\ifElse\ifElse\bin\Debug\net6.0\ifElse.deps.json
+D:\dev\C#\ifElse\ifElse\bin\Debug\net6.0\ifElse.runtimeconfig.json
+D:\dev\C#\ifElse\ifElse\bin\Debug\net6.0\ifElse.dll
+D:\dev\C#\ifElse\ifElse\bin\Debug\net6.0\ifElse.pdb
+D:\dev\C#\ifElse\ifElse\obj\Debug\net6.0\ifElse.csproj.AssemblyReference.cache
+D:\dev\C#\ifElse\ifElse\obj\Debug\net6.0\ifElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\ifElse\ifElse\obj\Debug\net6.0\ifElse.AssemblyInfoInputs.cache
+D:\dev\C#\ifElse\ifElse\obj\Debug\net6.0\ifElse.AssemblyInfo.cs
+D:\dev\C#\ifElse\ifElse\obj\Debug\net6.0\ifElse.csproj.CoreCompileInputs.cache
+D:\dev\C#\ifElse\ifElse\obj\Debug\net6.0\ifElse.dll
+D:\dev\C#\ifElse\ifElse\obj\Debug\net6.0\refint\ifElse.dll
+D:\dev\C#\ifElse\ifElse\obj\Debug\net6.0\ifElse.pdb
+D:\dev\C#\ifElse\ifElse\obj\Debug\net6.0\ifElse.genruntimeconfig.cache
+D:\dev\C#\ifElse\ifElse\obj\Debug\net6.0\ref\ifElse.dll

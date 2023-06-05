@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\ternária\ternária\bin\Debug\net6.0\ternária.exe
+C:\Users\Usuário\source\repos\ternária\ternária\bin\Debug\net6.0\ternária.deps.json
+C:\Users\Usuário\source\repos\ternária\ternária\bin\Debug\net6.0\ternária.runtimeconfig.json
+C:\Users\Usuário\source\repos\ternária\ternária\bin\Debug\net6.0\ternária.dll
+C:\Users\Usuário\source\repos\ternária\ternária\bin\Debug\net6.0\ternária.pdb
+C:\Users\Usuário\source\repos\ternária\ternária\obj\Debug\net6.0\ternária.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\ternária\ternária\obj\Debug\net6.0\ternária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\ternária\ternária\obj\Debug\net6.0\ternária.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\ternária\ternária\obj\Debug\net6.0\ternária.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\ternária\ternária\obj\Debug\net6.0\ternária.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\ternária\ternária\obj\Debug\net6.0\ternária.dll
+C:\Users\Usuário\source\repos\ternária\ternária\obj\Debug\net6.0\refint\ternária.dll
+C:\Users\Usuário\source\repos\ternária\ternária\obj\Debug\net6.0\ternária.pdb
+C:\Users\Usuário\source\repos\ternária\ternária\obj\Debug\net6.0\ternária.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\ternária\ternária\obj\Debug\net6.0\ref\ternária.dll

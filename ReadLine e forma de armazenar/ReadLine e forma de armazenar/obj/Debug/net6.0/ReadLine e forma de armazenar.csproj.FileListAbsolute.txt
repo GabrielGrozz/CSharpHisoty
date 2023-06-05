@@ -1,0 +1,15 @@
+D:\dev\C#\ReadLine e forma de armazenar\ReadLine e forma de armazenar\bin\Debug\net6.0\ReadLine e forma de armazenar.exe
+D:\dev\C#\ReadLine e forma de armazenar\ReadLine e forma de armazenar\bin\Debug\net6.0\ReadLine e forma de armazenar.deps.json
+D:\dev\C#\ReadLine e forma de armazenar\ReadLine e forma de armazenar\bin\Debug\net6.0\ReadLine e forma de armazenar.runtimeconfig.json
+D:\dev\C#\ReadLine e forma de armazenar\ReadLine e forma de armazenar\bin\Debug\net6.0\ReadLine e forma de armazenar.dll
+D:\dev\C#\ReadLine e forma de armazenar\ReadLine e forma de armazenar\bin\Debug\net6.0\ReadLine e forma de armazenar.pdb
+D:\dev\C#\ReadLine e forma de armazenar\ReadLine e forma de armazenar\obj\Debug\net6.0\ReadLine e forma de armazenar.csproj.AssemblyReference.cache
+D:\dev\C#\ReadLine e forma de armazenar\ReadLine e forma de armazenar\obj\Debug\net6.0\ReadLine e forma de armazenar.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\ReadLine e forma de armazenar\ReadLine e forma de armazenar\obj\Debug\net6.0\ReadLine e forma de armazenar.AssemblyInfoInputs.cache
+D:\dev\C#\ReadLine e forma de armazenar\ReadLine e forma de armazenar\obj\Debug\net6.0\ReadLine e forma de armazenar.AssemblyInfo.cs
+D:\dev\C#\ReadLine e forma de armazenar\ReadLine e forma de armazenar\obj\Debug\net6.0\ReadLine e forma de armazenar.csproj.CoreCompileInputs.cache
+D:\dev\C#\ReadLine e forma de armazenar\ReadLine e forma de armazenar\obj\Debug\net6.0\ReadLine e forma de armazenar.dll
+D:\dev\C#\ReadLine e forma de armazenar\ReadLine e forma de armazenar\obj\Debug\net6.0\refint\ReadLine e forma de armazenar.dll
+D:\dev\C#\ReadLine e forma de armazenar\ReadLine e forma de armazenar\obj\Debug\net6.0\ReadLine e forma de armazenar.pdb
+D:\dev\C#\ReadLine e forma de armazenar\ReadLine e forma de armazenar\obj\Debug\net6.0\ReadLine e forma de armazenar.genruntimeconfig.cache
+D:\dev\C#\ReadLine e forma de armazenar\ReadLine e forma de armazenar\obj\Debug\net6.0\ref\ReadLine e forma de armazenar.dll

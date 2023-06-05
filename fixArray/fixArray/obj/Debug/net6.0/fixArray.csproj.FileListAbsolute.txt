@@ -1,0 +1,15 @@
+D:\dev\C#\fixArray\fixArray\obj\Debug\net6.0\fixArray.csproj.AssemblyReference.cache
+D:\dev\C#\fixArray\fixArray\obj\Debug\net6.0\fixArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\fixArray\fixArray\obj\Debug\net6.0\fixArray.AssemblyInfoInputs.cache
+D:\dev\C#\fixArray\fixArray\obj\Debug\net6.0\fixArray.AssemblyInfo.cs
+D:\dev\C#\fixArray\fixArray\obj\Debug\net6.0\fixArray.csproj.CoreCompileInputs.cache
+D:\dev\C#\fixArray\fixArray\bin\Debug\net6.0\fixArray.exe
+D:\dev\C#\fixArray\fixArray\bin\Debug\net6.0\fixArray.deps.json
+D:\dev\C#\fixArray\fixArray\bin\Debug\net6.0\fixArray.runtimeconfig.json
+D:\dev\C#\fixArray\fixArray\bin\Debug\net6.0\fixArray.dll
+D:\dev\C#\fixArray\fixArray\bin\Debug\net6.0\fixArray.pdb
+D:\dev\C#\fixArray\fixArray\obj\Debug\net6.0\fixArray.dll
+D:\dev\C#\fixArray\fixArray\obj\Debug\net6.0\refint\fixArray.dll
+D:\dev\C#\fixArray\fixArray\obj\Debug\net6.0\fixArray.pdb
+D:\dev\C#\fixArray\fixArray\obj\Debug\net6.0\fixArray.genruntimeconfig.cache
+D:\dev\C#\fixArray\fixArray\obj\Debug\net6.0\ref\fixArray.dll

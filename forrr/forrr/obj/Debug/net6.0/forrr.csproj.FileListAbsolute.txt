@@ -1,0 +1,15 @@
+D:\dev\C#\forrr\forrr\bin\Debug\net6.0\forrr.exe
+D:\dev\C#\forrr\forrr\bin\Debug\net6.0\forrr.deps.json
+D:\dev\C#\forrr\forrr\bin\Debug\net6.0\forrr.runtimeconfig.json
+D:\dev\C#\forrr\forrr\bin\Debug\net6.0\forrr.dll
+D:\dev\C#\forrr\forrr\bin\Debug\net6.0\forrr.pdb
+D:\dev\C#\forrr\forrr\obj\Debug\net6.0\forrr.csproj.AssemblyReference.cache
+D:\dev\C#\forrr\forrr\obj\Debug\net6.0\forrr.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\forrr\forrr\obj\Debug\net6.0\forrr.AssemblyInfoInputs.cache
+D:\dev\C#\forrr\forrr\obj\Debug\net6.0\forrr.AssemblyInfo.cs
+D:\dev\C#\forrr\forrr\obj\Debug\net6.0\forrr.csproj.CoreCompileInputs.cache
+D:\dev\C#\forrr\forrr\obj\Debug\net6.0\forrr.dll
+D:\dev\C#\forrr\forrr\obj\Debug\net6.0\refint\forrr.dll
+D:\dev\C#\forrr\forrr\obj\Debug\net6.0\forrr.pdb
+D:\dev\C#\forrr\forrr\obj\Debug\net6.0\forrr.genruntimeconfig.cache
+D:\dev\C#\forrr\forrr\obj\Debug\net6.0\ref\forrr.dll

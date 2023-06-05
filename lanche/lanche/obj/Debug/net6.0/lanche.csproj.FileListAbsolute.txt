@@ -1,0 +1,15 @@
+D:\dev\C#\lanche\lanche\bin\Debug\net6.0\lanche.exe
+D:\dev\C#\lanche\lanche\bin\Debug\net6.0\lanche.deps.json
+D:\dev\C#\lanche\lanche\bin\Debug\net6.0\lanche.runtimeconfig.json
+D:\dev\C#\lanche\lanche\bin\Debug\net6.0\lanche.dll
+D:\dev\C#\lanche\lanche\bin\Debug\net6.0\lanche.pdb
+D:\dev\C#\lanche\lanche\obj\Debug\net6.0\lanche.csproj.AssemblyReference.cache
+D:\dev\C#\lanche\lanche\obj\Debug\net6.0\lanche.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\lanche\lanche\obj\Debug\net6.0\lanche.AssemblyInfoInputs.cache
+D:\dev\C#\lanche\lanche\obj\Debug\net6.0\lanche.AssemblyInfo.cs
+D:\dev\C#\lanche\lanche\obj\Debug\net6.0\lanche.csproj.CoreCompileInputs.cache
+D:\dev\C#\lanche\lanche\obj\Debug\net6.0\lanche.dll
+D:\dev\C#\lanche\lanche\obj\Debug\net6.0\refint\lanche.dll
+D:\dev\C#\lanche\lanche\obj\Debug\net6.0\lanche.pdb
+D:\dev\C#\lanche\lanche\obj\Debug\net6.0\lanche.genruntimeconfig.cache
+D:\dev\C#\lanche\lanche\obj\Debug\net6.0\ref\lanche.dll

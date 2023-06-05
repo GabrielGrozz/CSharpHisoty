@@ -1,0 +1,15 @@
+D:\dev\C#\foreach\foreach\bin\Debug\net6.0\foreach.exe
+D:\dev\C#\foreach\foreach\bin\Debug\net6.0\foreach.deps.json
+D:\dev\C#\foreach\foreach\bin\Debug\net6.0\foreach.runtimeconfig.json
+D:\dev\C#\foreach\foreach\bin\Debug\net6.0\foreach.dll
+D:\dev\C#\foreach\foreach\bin\Debug\net6.0\foreach.pdb
+D:\dev\C#\foreach\foreach\obj\Debug\net6.0\foreach.csproj.AssemblyReference.cache
+D:\dev\C#\foreach\foreach\obj\Debug\net6.0\foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\foreach\foreach\obj\Debug\net6.0\foreach.AssemblyInfoInputs.cache
+D:\dev\C#\foreach\foreach\obj\Debug\net6.0\foreach.AssemblyInfo.cs
+D:\dev\C#\foreach\foreach\obj\Debug\net6.0\foreach.csproj.CoreCompileInputs.cache
+D:\dev\C#\foreach\foreach\obj\Debug\net6.0\foreach.dll
+D:\dev\C#\foreach\foreach\obj\Debug\net6.0\refint\foreach.dll
+D:\dev\C#\foreach\foreach\obj\Debug\net6.0\foreach.pdb
+D:\dev\C#\foreach\foreach\obj\Debug\net6.0\foreach.genruntimeconfig.cache
+D:\dev\C#\foreach\foreach\obj\Debug\net6.0\ref\foreach.dll

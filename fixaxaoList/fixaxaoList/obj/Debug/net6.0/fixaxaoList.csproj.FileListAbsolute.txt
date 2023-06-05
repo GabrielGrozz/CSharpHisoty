@@ -1,0 +1,15 @@
+D:\dev\C#\fixaxaoList\fixaxaoList\bin\Debug\net6.0\fixaxaoList.exe
+D:\dev\C#\fixaxaoList\fixaxaoList\bin\Debug\net6.0\fixaxaoList.deps.json
+D:\dev\C#\fixaxaoList\fixaxaoList\bin\Debug\net6.0\fixaxaoList.runtimeconfig.json
+D:\dev\C#\fixaxaoList\fixaxaoList\bin\Debug\net6.0\fixaxaoList.dll
+D:\dev\C#\fixaxaoList\fixaxaoList\bin\Debug\net6.0\fixaxaoList.pdb
+D:\dev\C#\fixaxaoList\fixaxaoList\obj\Debug\net6.0\fixaxaoList.csproj.AssemblyReference.cache
+D:\dev\C#\fixaxaoList\fixaxaoList\obj\Debug\net6.0\fixaxaoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\fixaxaoList\fixaxaoList\obj\Debug\net6.0\fixaxaoList.AssemblyInfoInputs.cache
+D:\dev\C#\fixaxaoList\fixaxaoList\obj\Debug\net6.0\fixaxaoList.AssemblyInfo.cs
+D:\dev\C#\fixaxaoList\fixaxaoList\obj\Debug\net6.0\fixaxaoList.csproj.CoreCompileInputs.cache
+D:\dev\C#\fixaxaoList\fixaxaoList\obj\Debug\net6.0\fixaxaoList.dll
+D:\dev\C#\fixaxaoList\fixaxaoList\obj\Debug\net6.0\refint\fixaxaoList.dll
+D:\dev\C#\fixaxaoList\fixaxaoList\obj\Debug\net6.0\fixaxaoList.pdb
+D:\dev\C#\fixaxaoList\fixaxaoList\obj\Debug\net6.0\fixaxaoList.genruntimeconfig.cache
+D:\dev\C#\fixaxaoList\fixaxaoList\obj\Debug\net6.0\ref\fixaxaoList.dll

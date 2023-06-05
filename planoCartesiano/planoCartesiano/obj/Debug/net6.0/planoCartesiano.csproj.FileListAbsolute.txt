@@ -1,0 +1,15 @@
+D:\dev\C#\planoCartesiano\planoCartesiano\bin\Debug\net6.0\planoCartesiano.exe
+D:\dev\C#\planoCartesiano\planoCartesiano\bin\Debug\net6.0\planoCartesiano.deps.json
+D:\dev\C#\planoCartesiano\planoCartesiano\bin\Debug\net6.0\planoCartesiano.runtimeconfig.json
+D:\dev\C#\planoCartesiano\planoCartesiano\bin\Debug\net6.0\planoCartesiano.dll
+D:\dev\C#\planoCartesiano\planoCartesiano\bin\Debug\net6.0\planoCartesiano.pdb
+D:\dev\C#\planoCartesiano\planoCartesiano\obj\Debug\net6.0\planoCartesiano.csproj.AssemblyReference.cache
+D:\dev\C#\planoCartesiano\planoCartesiano\obj\Debug\net6.0\planoCartesiano.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\planoCartesiano\planoCartesiano\obj\Debug\net6.0\planoCartesiano.AssemblyInfoInputs.cache
+D:\dev\C#\planoCartesiano\planoCartesiano\obj\Debug\net6.0\planoCartesiano.AssemblyInfo.cs
+D:\dev\C#\planoCartesiano\planoCartesiano\obj\Debug\net6.0\planoCartesiano.csproj.CoreCompileInputs.cache
+D:\dev\C#\planoCartesiano\planoCartesiano\obj\Debug\net6.0\planoCartesiano.dll
+D:\dev\C#\planoCartesiano\planoCartesiano\obj\Debug\net6.0\refint\planoCartesiano.dll
+D:\dev\C#\planoCartesiano\planoCartesiano\obj\Debug\net6.0\planoCartesiano.pdb
+D:\dev\C#\planoCartesiano\planoCartesiano\obj\Debug\net6.0\planoCartesiano.genruntimeconfig.cache
+D:\dev\C#\planoCartesiano\planoCartesiano\obj\Debug\net6.0\ref\planoCartesiano.dll

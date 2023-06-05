@@ -1,0 +1,15 @@
+D:\dev\C#\nullable\nullable\obj\Debug\net6.0\nullable.csproj.AssemblyReference.cache
+D:\dev\C#\nullable\nullable\obj\Debug\net6.0\nullable.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\nullable\nullable\obj\Debug\net6.0\nullable.AssemblyInfoInputs.cache
+D:\dev\C#\nullable\nullable\obj\Debug\net6.0\nullable.AssemblyInfo.cs
+D:\dev\C#\nullable\nullable\obj\Debug\net6.0\nullable.csproj.CoreCompileInputs.cache
+D:\dev\C#\nullable\nullable\bin\Debug\net6.0\nullable.exe
+D:\dev\C#\nullable\nullable\bin\Debug\net6.0\nullable.deps.json
+D:\dev\C#\nullable\nullable\bin\Debug\net6.0\nullable.runtimeconfig.json
+D:\dev\C#\nullable\nullable\bin\Debug\net6.0\nullable.dll
+D:\dev\C#\nullable\nullable\bin\Debug\net6.0\nullable.pdb
+D:\dev\C#\nullable\nullable\obj\Debug\net6.0\nullable.dll
+D:\dev\C#\nullable\nullable\obj\Debug\net6.0\refint\nullable.dll
+D:\dev\C#\nullable\nullable\obj\Debug\net6.0\nullable.pdb
+D:\dev\C#\nullable\nullable\obj\Debug\net6.0\nullable.genruntimeconfig.cache
+D:\dev\C#\nullable\nullable\obj\Debug\net6.0\ref\nullable.dll

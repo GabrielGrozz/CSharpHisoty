@@ -1,0 +1,15 @@
+D:\dev\C#\posto\posto\bin\Debug\net6.0\posto.exe
+D:\dev\C#\posto\posto\bin\Debug\net6.0\posto.deps.json
+D:\dev\C#\posto\posto\bin\Debug\net6.0\posto.runtimeconfig.json
+D:\dev\C#\posto\posto\bin\Debug\net6.0\posto.dll
+D:\dev\C#\posto\posto\bin\Debug\net6.0\posto.pdb
+D:\dev\C#\posto\posto\obj\Debug\net6.0\posto.csproj.AssemblyReference.cache
+D:\dev\C#\posto\posto\obj\Debug\net6.0\posto.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\posto\posto\obj\Debug\net6.0\posto.AssemblyInfoInputs.cache
+D:\dev\C#\posto\posto\obj\Debug\net6.0\posto.AssemblyInfo.cs
+D:\dev\C#\posto\posto\obj\Debug\net6.0\posto.csproj.CoreCompileInputs.cache
+D:\dev\C#\posto\posto\obj\Debug\net6.0\posto.dll
+D:\dev\C#\posto\posto\obj\Debug\net6.0\refint\posto.dll
+D:\dev\C#\posto\posto\obj\Debug\net6.0\posto.pdb
+D:\dev\C#\posto\posto\obj\Debug\net6.0\posto.genruntimeconfig.cache
+D:\dev\C#\posto\posto\obj\Debug\net6.0\ref\posto.dll

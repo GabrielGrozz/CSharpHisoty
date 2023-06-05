@@ -1,0 +1,15 @@
+D:\dev\C#\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.exe
+D:\dev\C#\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.deps.json
+D:\dev\C#\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.runtimeconfig.json
+D:\dev\C#\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.dll
+D:\dev\C#\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.pdb
+D:\dev\C#\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.csproj.AssemblyReference.cache
+D:\dev\C#\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.AssemblyInfoInputs.cache
+D:\dev\C#\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.AssemblyInfo.cs
+D:\dev\C#\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.csproj.CoreCompileInputs.cache
+D:\dev\C#\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.dll
+D:\dev\C#\FirstProject\FirstProject\obj\Debug\net6.0\refint\FirstProject.dll
+D:\dev\C#\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.pdb
+D:\dev\C#\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.genruntimeconfig.cache
+D:\dev\C#\FirstProject\FirstProject\obj\Debug\net6.0\ref\FirstProject.dll

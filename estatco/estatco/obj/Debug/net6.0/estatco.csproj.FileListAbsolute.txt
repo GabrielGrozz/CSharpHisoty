@@ -1,0 +1,15 @@
+D:\dev\C#\estatco\estatco\bin\Debug\net6.0\estatco.exe
+D:\dev\C#\estatco\estatco\bin\Debug\net6.0\estatco.deps.json
+D:\dev\C#\estatco\estatco\bin\Debug\net6.0\estatco.runtimeconfig.json
+D:\dev\C#\estatco\estatco\bin\Debug\net6.0\estatco.dll
+D:\dev\C#\estatco\estatco\bin\Debug\net6.0\estatco.pdb
+D:\dev\C#\estatco\estatco\obj\Debug\net6.0\estatco.csproj.AssemblyReference.cache
+D:\dev\C#\estatco\estatco\obj\Debug\net6.0\estatco.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\estatco\estatco\obj\Debug\net6.0\estatco.AssemblyInfoInputs.cache
+D:\dev\C#\estatco\estatco\obj\Debug\net6.0\estatco.AssemblyInfo.cs
+D:\dev\C#\estatco\estatco\obj\Debug\net6.0\estatco.csproj.CoreCompileInputs.cache
+D:\dev\C#\estatco\estatco\obj\Debug\net6.0\estatco.dll
+D:\dev\C#\estatco\estatco\obj\Debug\net6.0\refint\estatco.dll
+D:\dev\C#\estatco\estatco\obj\Debug\net6.0\estatco.pdb
+D:\dev\C#\estatco\estatco\obj\Debug\net6.0\estatco.genruntimeconfig.cache
+D:\dev\C#\estatco\estatco\obj\Debug\net6.0\ref\estatco.dll

@@ -1,0 +1,15 @@
+D:\dev\C#\matrizes\matrizes\bin\Debug\net6.0\matrizes.exe
+D:\dev\C#\matrizes\matrizes\bin\Debug\net6.0\matrizes.deps.json
+D:\dev\C#\matrizes\matrizes\bin\Debug\net6.0\matrizes.runtimeconfig.json
+D:\dev\C#\matrizes\matrizes\bin\Debug\net6.0\matrizes.dll
+D:\dev\C#\matrizes\matrizes\bin\Debug\net6.0\matrizes.pdb
+D:\dev\C#\matrizes\matrizes\obj\Debug\net6.0\matrizes.csproj.AssemblyReference.cache
+D:\dev\C#\matrizes\matrizes\obj\Debug\net6.0\matrizes.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\matrizes\matrizes\obj\Debug\net6.0\matrizes.AssemblyInfoInputs.cache
+D:\dev\C#\matrizes\matrizes\obj\Debug\net6.0\matrizes.AssemblyInfo.cs
+D:\dev\C#\matrizes\matrizes\obj\Debug\net6.0\matrizes.csproj.CoreCompileInputs.cache
+D:\dev\C#\matrizes\matrizes\obj\Debug\net6.0\matrizes.dll
+D:\dev\C#\matrizes\matrizes\obj\Debug\net6.0\refint\matrizes.dll
+D:\dev\C#\matrizes\matrizes\obj\Debug\net6.0\matrizes.pdb
+D:\dev\C#\matrizes\matrizes\obj\Debug\net6.0\matrizes.genruntimeconfig.cache
+D:\dev\C#\matrizes\matrizes\obj\Debug\net6.0\ref\matrizes.dll

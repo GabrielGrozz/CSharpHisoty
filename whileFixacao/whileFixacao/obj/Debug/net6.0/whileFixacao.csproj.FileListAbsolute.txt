@@ -1,0 +1,15 @@
+D:\dev\C#\whileFixacao\whileFixacao\obj\Debug\net6.0\whileFixacao.csproj.AssemblyReference.cache
+D:\dev\C#\whileFixacao\whileFixacao\obj\Debug\net6.0\whileFixacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\whileFixacao\whileFixacao\obj\Debug\net6.0\whileFixacao.AssemblyInfoInputs.cache
+D:\dev\C#\whileFixacao\whileFixacao\obj\Debug\net6.0\whileFixacao.AssemblyInfo.cs
+D:\dev\C#\whileFixacao\whileFixacao\obj\Debug\net6.0\whileFixacao.csproj.CoreCompileInputs.cache
+D:\dev\C#\whileFixacao\whileFixacao\bin\Debug\net6.0\whileFixacao.exe
+D:\dev\C#\whileFixacao\whileFixacao\bin\Debug\net6.0\whileFixacao.deps.json
+D:\dev\C#\whileFixacao\whileFixacao\bin\Debug\net6.0\whileFixacao.runtimeconfig.json
+D:\dev\C#\whileFixacao\whileFixacao\bin\Debug\net6.0\whileFixacao.dll
+D:\dev\C#\whileFixacao\whileFixacao\bin\Debug\net6.0\whileFixacao.pdb
+D:\dev\C#\whileFixacao\whileFixacao\obj\Debug\net6.0\whileFixacao.dll
+D:\dev\C#\whileFixacao\whileFixacao\obj\Debug\net6.0\refint\whileFixacao.dll
+D:\dev\C#\whileFixacao\whileFixacao\obj\Debug\net6.0\whileFixacao.pdb
+D:\dev\C#\whileFixacao\whileFixacao\obj\Debug\net6.0\whileFixacao.genruntimeconfig.cache
+D:\dev\C#\whileFixacao\whileFixacao\obj\Debug\net6.0\ref\whileFixacao.dll

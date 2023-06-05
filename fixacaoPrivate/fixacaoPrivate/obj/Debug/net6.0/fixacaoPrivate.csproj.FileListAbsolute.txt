@@ -1,0 +1,15 @@
+D:\dev\C#\fixacaoPrivate\fixacaoPrivate\bin\Debug\net6.0\fixacaoPrivate.exe
+D:\dev\C#\fixacaoPrivate\fixacaoPrivate\bin\Debug\net6.0\fixacaoPrivate.deps.json
+D:\dev\C#\fixacaoPrivate\fixacaoPrivate\bin\Debug\net6.0\fixacaoPrivate.runtimeconfig.json
+D:\dev\C#\fixacaoPrivate\fixacaoPrivate\bin\Debug\net6.0\fixacaoPrivate.dll
+D:\dev\C#\fixacaoPrivate\fixacaoPrivate\bin\Debug\net6.0\fixacaoPrivate.pdb
+D:\dev\C#\fixacaoPrivate\fixacaoPrivate\obj\Debug\net6.0\fixacaoPrivate.csproj.AssemblyReference.cache
+D:\dev\C#\fixacaoPrivate\fixacaoPrivate\obj\Debug\net6.0\fixacaoPrivate.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\fixacaoPrivate\fixacaoPrivate\obj\Debug\net6.0\fixacaoPrivate.AssemblyInfoInputs.cache
+D:\dev\C#\fixacaoPrivate\fixacaoPrivate\obj\Debug\net6.0\fixacaoPrivate.AssemblyInfo.cs
+D:\dev\C#\fixacaoPrivate\fixacaoPrivate\obj\Debug\net6.0\fixacaoPrivate.csproj.CoreCompileInputs.cache
+D:\dev\C#\fixacaoPrivate\fixacaoPrivate\obj\Debug\net6.0\fixacaoPrivate.dll
+D:\dev\C#\fixacaoPrivate\fixacaoPrivate\obj\Debug\net6.0\refint\fixacaoPrivate.dll
+D:\dev\C#\fixacaoPrivate\fixacaoPrivate\obj\Debug\net6.0\fixacaoPrivate.pdb
+D:\dev\C#\fixacaoPrivate\fixacaoPrivate\obj\Debug\net6.0\fixacaoPrivate.genruntimeconfig.cache
+D:\dev\C#\fixacaoPrivate\fixacaoPrivate\obj\Debug\net6.0\ref\fixacaoPrivate.dll

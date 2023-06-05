@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\Enumerações\Enumerações\bin\Debug\net6.0\Enumerações.exe
+C:\Users\Usuário\source\repos\Enumerações\Enumerações\bin\Debug\net6.0\Enumerações.deps.json
+C:\Users\Usuário\source\repos\Enumerações\Enumerações\bin\Debug\net6.0\Enumerações.runtimeconfig.json
+C:\Users\Usuário\source\repos\Enumerações\Enumerações\bin\Debug\net6.0\Enumerações.dll
+C:\Users\Usuário\source\repos\Enumerações\Enumerações\bin\Debug\net6.0\Enumerações.pdb
+C:\Users\Usuário\source\repos\Enumerações\Enumerações\obj\Debug\net6.0\Enumerações.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\Enumerações\Enumerações\obj\Debug\net6.0\Enumerações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\Enumerações\Enumerações\obj\Debug\net6.0\Enumerações.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\Enumerações\Enumerações\obj\Debug\net6.0\Enumerações.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\Enumerações\Enumerações\obj\Debug\net6.0\Enumerações.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Enumerações\Enumerações\obj\Debug\net6.0\Enumerações.dll
+C:\Users\Usuário\source\repos\Enumerações\Enumerações\obj\Debug\net6.0\refint\Enumerações.dll
+C:\Users\Usuário\source\repos\Enumerações\Enumerações\obj\Debug\net6.0\Enumerações.pdb
+C:\Users\Usuário\source\repos\Enumerações\Enumerações\obj\Debug\net6.0\Enumerações.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\Enumerações\Enumerações\obj\Debug\net6.0\ref\Enumerações.dll

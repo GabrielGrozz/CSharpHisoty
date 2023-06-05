@@ -1,0 +1,15 @@
+D:\dev\C#\conversão entre tipos\conversão entre tipos\bin\Debug\net6.0\conversão entre tipos.exe
+D:\dev\C#\conversão entre tipos\conversão entre tipos\bin\Debug\net6.0\conversão entre tipos.deps.json
+D:\dev\C#\conversão entre tipos\conversão entre tipos\bin\Debug\net6.0\conversão entre tipos.runtimeconfig.json
+D:\dev\C#\conversão entre tipos\conversão entre tipos\bin\Debug\net6.0\conversão entre tipos.dll
+D:\dev\C#\conversão entre tipos\conversão entre tipos\bin\Debug\net6.0\conversão entre tipos.pdb
+D:\dev\C#\conversão entre tipos\conversão entre tipos\obj\Debug\net6.0\conversão entre tipos.csproj.AssemblyReference.cache
+D:\dev\C#\conversão entre tipos\conversão entre tipos\obj\Debug\net6.0\conversão entre tipos.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\conversão entre tipos\conversão entre tipos\obj\Debug\net6.0\conversão entre tipos.AssemblyInfoInputs.cache
+D:\dev\C#\conversão entre tipos\conversão entre tipos\obj\Debug\net6.0\conversão entre tipos.AssemblyInfo.cs
+D:\dev\C#\conversão entre tipos\conversão entre tipos\obj\Debug\net6.0\conversão entre tipos.csproj.CoreCompileInputs.cache
+D:\dev\C#\conversão entre tipos\conversão entre tipos\obj\Debug\net6.0\conversão entre tipos.dll
+D:\dev\C#\conversão entre tipos\conversão entre tipos\obj\Debug\net6.0\refint\conversão entre tipos.dll
+D:\dev\C#\conversão entre tipos\conversão entre tipos\obj\Debug\net6.0\conversão entre tipos.pdb
+D:\dev\C#\conversão entre tipos\conversão entre tipos\obj\Debug\net6.0\conversão entre tipos.genruntimeconfig.cache
+D:\dev\C#\conversão entre tipos\conversão entre tipos\obj\Debug\net6.0\ref\conversão entre tipos.dll

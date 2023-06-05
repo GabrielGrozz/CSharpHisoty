@@ -1,0 +1,15 @@
+D:\dev\C#\Esrtoque\Esrtoque\bin\Debug\net6.0\Esrtoque.exe
+D:\dev\C#\Esrtoque\Esrtoque\bin\Debug\net6.0\Esrtoque.deps.json
+D:\dev\C#\Esrtoque\Esrtoque\bin\Debug\net6.0\Esrtoque.runtimeconfig.json
+D:\dev\C#\Esrtoque\Esrtoque\bin\Debug\net6.0\Esrtoque.dll
+D:\dev\C#\Esrtoque\Esrtoque\bin\Debug\net6.0\Esrtoque.pdb
+D:\dev\C#\Esrtoque\Esrtoque\obj\Debug\net6.0\Esrtoque.csproj.AssemblyReference.cache
+D:\dev\C#\Esrtoque\Esrtoque\obj\Debug\net6.0\Esrtoque.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\Esrtoque\Esrtoque\obj\Debug\net6.0\Esrtoque.AssemblyInfoInputs.cache
+D:\dev\C#\Esrtoque\Esrtoque\obj\Debug\net6.0\Esrtoque.AssemblyInfo.cs
+D:\dev\C#\Esrtoque\Esrtoque\obj\Debug\net6.0\Esrtoque.csproj.CoreCompileInputs.cache
+D:\dev\C#\Esrtoque\Esrtoque\obj\Debug\net6.0\Esrtoque.dll
+D:\dev\C#\Esrtoque\Esrtoque\obj\Debug\net6.0\refint\Esrtoque.dll
+D:\dev\C#\Esrtoque\Esrtoque\obj\Debug\net6.0\Esrtoque.pdb
+D:\dev\C#\Esrtoque\Esrtoque\obj\Debug\net6.0\Esrtoque.genruntimeconfig.cache
+D:\dev\C#\Esrtoque\Esrtoque\obj\Debug\net6.0\ref\Esrtoque.dll

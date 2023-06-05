@@ -1,0 +1,15 @@
+D:\dev\C#\parametrosArray\parametrosArray\bin\Debug\net6.0\parametrosArray.exe
+D:\dev\C#\parametrosArray\parametrosArray\bin\Debug\net6.0\parametrosArray.deps.json
+D:\dev\C#\parametrosArray\parametrosArray\bin\Debug\net6.0\parametrosArray.runtimeconfig.json
+D:\dev\C#\parametrosArray\parametrosArray\bin\Debug\net6.0\parametrosArray.dll
+D:\dev\C#\parametrosArray\parametrosArray\bin\Debug\net6.0\parametrosArray.pdb
+D:\dev\C#\parametrosArray\parametrosArray\obj\Debug\net6.0\parametrosArray.csproj.AssemblyReference.cache
+D:\dev\C#\parametrosArray\parametrosArray\obj\Debug\net6.0\parametrosArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\parametrosArray\parametrosArray\obj\Debug\net6.0\parametrosArray.AssemblyInfoInputs.cache
+D:\dev\C#\parametrosArray\parametrosArray\obj\Debug\net6.0\parametrosArray.AssemblyInfo.cs
+D:\dev\C#\parametrosArray\parametrosArray\obj\Debug\net6.0\parametrosArray.csproj.CoreCompileInputs.cache
+D:\dev\C#\parametrosArray\parametrosArray\obj\Debug\net6.0\parametrosArray.dll
+D:\dev\C#\parametrosArray\parametrosArray\obj\Debug\net6.0\refint\parametrosArray.dll
+D:\dev\C#\parametrosArray\parametrosArray\obj\Debug\net6.0\parametrosArray.pdb
+D:\dev\C#\parametrosArray\parametrosArray\obj\Debug\net6.0\parametrosArray.genruntimeconfig.cache
+D:\dev\C#\parametrosArray\parametrosArray\obj\Debug\net6.0\ref\parametrosArray.dll

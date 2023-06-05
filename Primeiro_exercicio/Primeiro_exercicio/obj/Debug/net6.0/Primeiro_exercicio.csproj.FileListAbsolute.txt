@@ -1,0 +1,15 @@
+D:\dev\C#\Primeiro_exercicio\Primeiro_exercicio\bin\Debug\net6.0\Primeiro_exercicio.exe
+D:\dev\C#\Primeiro_exercicio\Primeiro_exercicio\bin\Debug\net6.0\Primeiro_exercicio.deps.json
+D:\dev\C#\Primeiro_exercicio\Primeiro_exercicio\bin\Debug\net6.0\Primeiro_exercicio.runtimeconfig.json
+D:\dev\C#\Primeiro_exercicio\Primeiro_exercicio\bin\Debug\net6.0\Primeiro_exercicio.dll
+D:\dev\C#\Primeiro_exercicio\Primeiro_exercicio\bin\Debug\net6.0\Primeiro_exercicio.pdb
+D:\dev\C#\Primeiro_exercicio\Primeiro_exercicio\obj\Debug\net6.0\Primeiro_exercicio.csproj.AssemblyReference.cache
+D:\dev\C#\Primeiro_exercicio\Primeiro_exercicio\obj\Debug\net6.0\Primeiro_exercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\Primeiro_exercicio\Primeiro_exercicio\obj\Debug\net6.0\Primeiro_exercicio.AssemblyInfoInputs.cache
+D:\dev\C#\Primeiro_exercicio\Primeiro_exercicio\obj\Debug\net6.0\Primeiro_exercicio.AssemblyInfo.cs
+D:\dev\C#\Primeiro_exercicio\Primeiro_exercicio\obj\Debug\net6.0\Primeiro_exercicio.csproj.CoreCompileInputs.cache
+D:\dev\C#\Primeiro_exercicio\Primeiro_exercicio\obj\Debug\net6.0\Primeiro_exercicio.dll
+D:\dev\C#\Primeiro_exercicio\Primeiro_exercicio\obj\Debug\net6.0\refint\Primeiro_exercicio.dll
+D:\dev\C#\Primeiro_exercicio\Primeiro_exercicio\obj\Debug\net6.0\Primeiro_exercicio.pdb
+D:\dev\C#\Primeiro_exercicio\Primeiro_exercicio\obj\Debug\net6.0\Primeiro_exercicio.genruntimeconfig.cache
+D:\dev\C#\Primeiro_exercicio\Primeiro_exercicio\obj\Debug\net6.0\ref\Primeiro_exercicio.dll

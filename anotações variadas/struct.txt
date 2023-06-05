@@ -1,0 +1,54 @@
+struct - é um tipo valor(fica armazenado na stack) que armazena outros dados, é como uma classe, porém mais simples e menos complexa.
+diferente da classe onde as coisas irão ficar armazenadas no heap, aqui ela fica armazenada na stack, sendo assim não é necessário instanciar uma strutura, mas simplesmente chama-la normalmente
+podemos armazenar tanto valores a métodos. Temos como exemplo de struct o int.
+é melhor usala em projetos menos complexos, para projeto smais complexos é melhor utilizarmos uma class mesmo.
+podemos utilizar construtores no struct, desde que a struct seja instanciada
+precisamo atribuir um valor as variáveis dentro do struct, senão haverá erros
+
+EXEMPLOS: 
+
+namespace Course
+{
+    struct Carro
+    {
+        //dados da struct
+        public string Marca;
+        public int Ano;
+        public string Cor;
+
+        //construtor
+        public Carro( string Marca, int Ano, string Cor)
+        {
+            this.Marca = Marca;
+            this.Ano = Ano;
+            this.Cor = Cor;
+        }
+
+        //método
+        public void Info()
+        {
+            Console.WriteLine(this.Marca);
+            Console.WriteLine(this.Ano);
+            Console.WriteLine(this.Cor);
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Carro carroNovo;
+            carroNovo.Marca = "honda";
+            carroNovo.Ano = 2010;
+            carroNovo.Cor = "Preto";
+
+            Console.WriteLine(carroNovo.Marca);
+            Console.WriteLine(carroNovo.Ano);
+            Console.WriteLine(carroNovo.Cor);
+
+            carroNovo.Info();
+
+
+        }
+    }
+
+}

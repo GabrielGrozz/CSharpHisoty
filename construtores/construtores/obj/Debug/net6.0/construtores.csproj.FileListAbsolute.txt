@@ -1,0 +1,15 @@
+D:\dev\C#\construtores\construtores\bin\Debug\net6.0\construtores.exe
+D:\dev\C#\construtores\construtores\bin\Debug\net6.0\construtores.deps.json
+D:\dev\C#\construtores\construtores\bin\Debug\net6.0\construtores.runtimeconfig.json
+D:\dev\C#\construtores\construtores\bin\Debug\net6.0\construtores.dll
+D:\dev\C#\construtores\construtores\bin\Debug\net6.0\construtores.pdb
+D:\dev\C#\construtores\construtores\obj\Debug\net6.0\construtores.csproj.AssemblyReference.cache
+D:\dev\C#\construtores\construtores\obj\Debug\net6.0\construtores.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\construtores\construtores\obj\Debug\net6.0\construtores.AssemblyInfoInputs.cache
+D:\dev\C#\construtores\construtores\obj\Debug\net6.0\construtores.AssemblyInfo.cs
+D:\dev\C#\construtores\construtores\obj\Debug\net6.0\construtores.csproj.CoreCompileInputs.cache
+D:\dev\C#\construtores\construtores\obj\Debug\net6.0\construtores.dll
+D:\dev\C#\construtores\construtores\obj\Debug\net6.0\refint\construtores.dll
+D:\dev\C#\construtores\construtores\obj\Debug\net6.0\construtores.pdb
+D:\dev\C#\construtores\construtores\obj\Debug\net6.0\construtores.genruntimeconfig.cache
+D:\dev\C#\construtores\construtores\obj\Debug\net6.0\ref\construtores.dll

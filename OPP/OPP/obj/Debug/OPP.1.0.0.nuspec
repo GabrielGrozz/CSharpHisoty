@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>OPP</id>
+    <version>1.0.0</version>
+    <authors>OPP</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\dev\C#\OPP\OPP\bin\Debug\net6.0\OPP.runtimeconfig.json" target="lib\net6.0\OPP.runtimeconfig.json" />
+    <file src="D:\dev\C#\OPP\OPP\bin\Debug\net6.0\OPP.dll" target="lib\net6.0\OPP.dll" />
+  </files>
+</package>

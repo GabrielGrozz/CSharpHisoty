@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ReadLine e forma de armazenar/1.0.0": {
+        "runtime": {
+          "ReadLine e forma de armazenar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReadLine e forma de armazenar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

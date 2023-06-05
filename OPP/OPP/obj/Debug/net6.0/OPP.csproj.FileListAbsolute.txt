@@ -1,0 +1,15 @@
+D:\dev\C#\OPP\OPP\bin\Debug\net6.0\OPP.exe
+D:\dev\C#\OPP\OPP\bin\Debug\net6.0\OPP.deps.json
+D:\dev\C#\OPP\OPP\bin\Debug\net6.0\OPP.runtimeconfig.json
+D:\dev\C#\OPP\OPP\bin\Debug\net6.0\OPP.dll
+D:\dev\C#\OPP\OPP\bin\Debug\net6.0\OPP.pdb
+D:\dev\C#\OPP\OPP\obj\Debug\net6.0\OPP.csproj.AssemblyReference.cache
+D:\dev\C#\OPP\OPP\obj\Debug\net6.0\OPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\OPP\OPP\obj\Debug\net6.0\OPP.AssemblyInfoInputs.cache
+D:\dev\C#\OPP\OPP\obj\Debug\net6.0\OPP.AssemblyInfo.cs
+D:\dev\C#\OPP\OPP\obj\Debug\net6.0\OPP.csproj.CoreCompileInputs.cache
+D:\dev\C#\OPP\OPP\obj\Debug\net6.0\OPP.dll
+D:\dev\C#\OPP\OPP\obj\Debug\net6.0\refint\OPP.dll
+D:\dev\C#\OPP\OPP\obj\Debug\net6.0\OPP.pdb
+D:\dev\C#\OPP\OPP\obj\Debug\net6.0\OPP.genruntimeconfig.cache
+D:\dev\C#\OPP\OPP\obj\Debug\net6.0\ref\OPP.dll

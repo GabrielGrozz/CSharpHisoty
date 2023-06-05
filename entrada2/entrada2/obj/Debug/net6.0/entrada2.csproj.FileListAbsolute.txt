@@ -1,0 +1,15 @@
+D:\dev\C#\entrada2\entrada2\bin\Debug\net6.0\entrada2.exe
+D:\dev\C#\entrada2\entrada2\bin\Debug\net6.0\entrada2.deps.json
+D:\dev\C#\entrada2\entrada2\bin\Debug\net6.0\entrada2.runtimeconfig.json
+D:\dev\C#\entrada2\entrada2\bin\Debug\net6.0\entrada2.dll
+D:\dev\C#\entrada2\entrada2\bin\Debug\net6.0\entrada2.pdb
+D:\dev\C#\entrada2\entrada2\obj\Debug\net6.0\entrada2.csproj.AssemblyReference.cache
+D:\dev\C#\entrada2\entrada2\obj\Debug\net6.0\entrada2.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\entrada2\entrada2\obj\Debug\net6.0\entrada2.AssemblyInfoInputs.cache
+D:\dev\C#\entrada2\entrada2\obj\Debug\net6.0\entrada2.AssemblyInfo.cs
+D:\dev\C#\entrada2\entrada2\obj\Debug\net6.0\entrada2.csproj.CoreCompileInputs.cache
+D:\dev\C#\entrada2\entrada2\obj\Debug\net6.0\entrada2.dll
+D:\dev\C#\entrada2\entrada2\obj\Debug\net6.0\refint\entrada2.dll
+D:\dev\C#\entrada2\entrada2\obj\Debug\net6.0\entrada2.pdb
+D:\dev\C#\entrada2\entrada2\obj\Debug\net6.0\entrada2.genruntimeconfig.cache
+D:\dev\C#\entrada2\entrada2\obj\Debug\net6.0\ref\entrada2.dll

@@ -1,0 +1,15 @@
+D:\dev\C#\modificadores\modificadores\bin\Debug\net6.0\modificadores.exe
+D:\dev\C#\modificadores\modificadores\bin\Debug\net6.0\modificadores.deps.json
+D:\dev\C#\modificadores\modificadores\bin\Debug\net6.0\modificadores.runtimeconfig.json
+D:\dev\C#\modificadores\modificadores\bin\Debug\net6.0\modificadores.dll
+D:\dev\C#\modificadores\modificadores\bin\Debug\net6.0\modificadores.pdb
+D:\dev\C#\modificadores\modificadores\obj\Debug\net6.0\modificadores.csproj.AssemblyReference.cache
+D:\dev\C#\modificadores\modificadores\obj\Debug\net6.0\modificadores.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\modificadores\modificadores\obj\Debug\net6.0\modificadores.AssemblyInfoInputs.cache
+D:\dev\C#\modificadores\modificadores\obj\Debug\net6.0\modificadores.AssemblyInfo.cs
+D:\dev\C#\modificadores\modificadores\obj\Debug\net6.0\modificadores.csproj.CoreCompileInputs.cache
+D:\dev\C#\modificadores\modificadores\obj\Debug\net6.0\modificadores.dll
+D:\dev\C#\modificadores\modificadores\obj\Debug\net6.0\refint\modificadores.dll
+D:\dev\C#\modificadores\modificadores\obj\Debug\net6.0\modificadores.pdb
+D:\dev\C#\modificadores\modificadores\obj\Debug\net6.0\modificadores.genruntimeconfig.cache
+D:\dev\C#\modificadores\modificadores\obj\Debug\net6.0\ref\modificadores.dll

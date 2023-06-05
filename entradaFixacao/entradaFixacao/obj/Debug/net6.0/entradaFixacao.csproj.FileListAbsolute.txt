@@ -1,0 +1,15 @@
+D:\dev\C#\entradaFixacao\entradaFixacao\bin\Debug\net6.0\entradaFixacao.exe
+D:\dev\C#\entradaFixacao\entradaFixacao\bin\Debug\net6.0\entradaFixacao.deps.json
+D:\dev\C#\entradaFixacao\entradaFixacao\bin\Debug\net6.0\entradaFixacao.runtimeconfig.json
+D:\dev\C#\entradaFixacao\entradaFixacao\bin\Debug\net6.0\entradaFixacao.dll
+D:\dev\C#\entradaFixacao\entradaFixacao\bin\Debug\net6.0\entradaFixacao.pdb
+D:\dev\C#\entradaFixacao\entradaFixacao\obj\Debug\net6.0\entradaFixacao.csproj.AssemblyReference.cache
+D:\dev\C#\entradaFixacao\entradaFixacao\obj\Debug\net6.0\entradaFixacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\entradaFixacao\entradaFixacao\obj\Debug\net6.0\entradaFixacao.AssemblyInfoInputs.cache
+D:\dev\C#\entradaFixacao\entradaFixacao\obj\Debug\net6.0\entradaFixacao.AssemblyInfo.cs
+D:\dev\C#\entradaFixacao\entradaFixacao\obj\Debug\net6.0\entradaFixacao.csproj.CoreCompileInputs.cache
+D:\dev\C#\entradaFixacao\entradaFixacao\obj\Debug\net6.0\entradaFixacao.dll
+D:\dev\C#\entradaFixacao\entradaFixacao\obj\Debug\net6.0\refint\entradaFixacao.dll
+D:\dev\C#\entradaFixacao\entradaFixacao\obj\Debug\net6.0\entradaFixacao.pdb
+D:\dev\C#\entradaFixacao\entradaFixacao\obj\Debug\net6.0\entradaFixacao.genruntimeconfig.cache
+D:\dev\C#\entradaFixacao\entradaFixacao\obj\Debug\net6.0\ref\entradaFixacao.dll
