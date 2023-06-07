@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\PostsProject\PostsProject\obj\Debug\net7.0\PostsProject.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\PostsProject\PostsProject\obj\Debug\net7.0\PostsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\PostsProject\PostsProject\obj\Debug\net7.0\PostsProject.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\PostsProject\PostsProject\obj\Debug\net7.0\PostsProject.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\PostsProject\PostsProject\obj\Debug\net7.0\PostsProject.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\PostsProject\PostsProject\bin\Debug\net7.0\PostsProject.exe
+C:\Users\Usuário\source\repos\PostsProject\PostsProject\bin\Debug\net7.0\PostsProject.deps.json
+C:\Users\Usuário\source\repos\PostsProject\PostsProject\bin\Debug\net7.0\PostsProject.runtimeconfig.json
+C:\Users\Usuário\source\repos\PostsProject\PostsProject\bin\Debug\net7.0\PostsProject.dll
+C:\Users\Usuário\source\repos\PostsProject\PostsProject\bin\Debug\net7.0\PostsProject.pdb
+C:\Users\Usuário\source\repos\PostsProject\PostsProject\obj\Debug\net7.0\PostsProject.dll
+C:\Users\Usuário\source\repos\PostsProject\PostsProject\obj\Debug\net7.0\refint\PostsProject.dll
+C:\Users\Usuário\source\repos\PostsProject\PostsProject\obj\Debug\net7.0\PostsProject.pdb
+C:\Users\Usuário\source\repos\PostsProject\PostsProject\obj\Debug\net7.0\PostsProject.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\PostsProject\PostsProject\obj\Debug\net7.0\ref\PostsProject.dll
