@@ -56,7 +56,7 @@ namespace WorkerProgram
             int year = int.Parse(monthAndYear.Substring(3));
 
             Console.WriteLine($"Name: {worker.Name}");
-            Console.WriteLine($"Departament: {worker.Departament.Name}");
+            Console.WriteLine($"Departament: {worker.Departamento.Name}");
             Console.WriteLine($"Income for {monthAndYear}: {worker.income(year, month)}");
             Console.WriteLine($"");
             Console.WriteLine($"");

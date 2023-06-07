@@ -8,7 +8,7 @@ namespace workerProject.Entities
         public string Name { get; set; }
         public WorkerLevel Level { get; set; }
         public double BaseSalary { get; set; }
-        public Departament Departament { get; set; }
+        public Departament Departamento { get; set; }
 
         //como não teremos uma quantidade de contratos específica, usaremos uma lista para que possamos colocar todos
         //os nossos contratos armazenados
@@ -25,7 +25,8 @@ namespace workerProject.Entities
             Name = name;
             Level = level;
             BaseSalary = baseSalary;
-            Departament = departament;
+            Departamento = departament;
+            Contracts = new List<HourContract>();
         }
 
         //método, que como não possui uma lógica realmente, ele pode ser do tipo void, pois só adiciona um contrato na lista
