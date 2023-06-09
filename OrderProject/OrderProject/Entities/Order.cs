@@ -1,9 +1,5 @@
 ﻿using OrderProject.Entities.Enums;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace OrderProject.Entities
 {
@@ -12,12 +8,33 @@ namespace OrderProject.Entities
         DateTime Moment { get; set; }
         OnderStatus Status { get; set; }
 
+        List<OrderItem> items { get; set; } = new List<OrderItem>();
+
         public Order() { }
 
         public Order(DateTime moment, OnderStatus status)
         {
             Moment = moment;
             Status = status;
+        }
+
+        public void AddItem(OrderItem item)
+        {
+            items.Add(item);
+        }
+        public void RemoveItem(OrderItem item)
+        {items.Remove(item);
+
+        }
+        public double Total()
+        {
+            double total = 0;
+            foreach (OrderItem item in items)
+            {
+                total += item.subTotal();
+            }
+
+            return total;
         }
     }
 }
