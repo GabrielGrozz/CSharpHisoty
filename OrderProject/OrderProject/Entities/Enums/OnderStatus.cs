@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 namespace OrderProject.Entities.Enums
 {
-
     enum OrderStatus : int
     {
         PENDING_PAYMENT = 0,

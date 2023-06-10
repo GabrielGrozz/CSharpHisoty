@@ -9,6 +9,7 @@ namespace OrderProject.Entities
     {
         DateTime Moment { get; set; }
         OrderStatus Status { get; set; }
+        //lista com os pedidos
         List<OrderItem> items { get; set; } = new List<OrderItem>();
         Client OrderClient;
 
@@ -30,6 +31,8 @@ namespace OrderProject.Entities
             items.Remove(item);
 
         }
+
+        //achq o total de todos os pedidos juntos
         public double Total()
         {
             double total = 0;
@@ -41,6 +44,7 @@ namespace OrderProject.Entities
             return total;
         }
 
+        //override
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
