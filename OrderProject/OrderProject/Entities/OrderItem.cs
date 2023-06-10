@@ -8,10 +8,9 @@ namespace OrderProject.Entities
 {
     internal class OrderItem
     {
-        int Quantity { get; set; }
-        double Price { get; set; }
-
-        List<Product> Products { get; set; } = new List<Product>();
+        public int Quantity { get; set; }
+        public double Price { get; set; }
+        public Product ProductItem = new Product();
 
         public OrderItem() { }
 

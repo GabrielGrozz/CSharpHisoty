@@ -8,9 +8,9 @@ namespace OrderProject.Entities
 {
     internal class Client
     {
-        string Name { get; set; }
-        string Email { get; set; }
-        DateTime BirthDate { get; set; }
+        public string Name { get; set; }
+        public string Email { get; set; }
+        public DateTime BirthDate { get; set; }
 
         public Client() { }
 
