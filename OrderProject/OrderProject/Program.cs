@@ -32,12 +32,12 @@ namespace OrderProject
             Console.Write("How many items to this order? ");
             int orderItems = int.Parse(Console.ReadLine());
 
+            //instanciamos pedido antes para que ele n fique no for
             Order order = new Order(DateTime.Now, orderStatus, client);
 
             //um for para percorrer a quantidade de pedidos que irá ter
             for (int j = 0; j < orderItems; j++)
             {
-
                 Console.WriteLine($"Enter #{j + 1} item data:");
                 Console.Write("Product Name: ");
                 string productName = Console.ReadLine();
