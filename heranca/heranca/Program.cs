@@ -1,0 +1,1 @@
+﻿//herança é basicamente a capacidade de uma classe passar seus atributos para uma subclasse dela.
