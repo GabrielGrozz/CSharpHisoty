@@ -8,12 +8,12 @@ namespace OrderProject.Entities
 {
     internal class Product
     {
-        int Name { get; set; }
-        double Price { get; set; }
+        public string Name { get; set; }
+        public double Price { get; set; }
 
         public Product() { }
 
-        public Product(int name, double price)
+        public Product(string name, double price)
         {
             Name = name;
             Price = price;

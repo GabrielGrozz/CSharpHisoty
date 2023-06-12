@@ -1,0 +1,15 @@
+D:\dev\C#\CSharpHisoty\OrderProject\OrderProject\bin\Debug\net7.0\OrderProject.exe
+D:\dev\C#\CSharpHisoty\OrderProject\OrderProject\bin\Debug\net7.0\OrderProject.deps.json
+D:\dev\C#\CSharpHisoty\OrderProject\OrderProject\bin\Debug\net7.0\OrderProject.runtimeconfig.json
+D:\dev\C#\CSharpHisoty\OrderProject\OrderProject\bin\Debug\net7.0\OrderProject.dll
+D:\dev\C#\CSharpHisoty\OrderProject\OrderProject\bin\Debug\net7.0\OrderProject.pdb
+D:\dev\C#\CSharpHisoty\OrderProject\OrderProject\obj\Debug\net7.0\OrderProject.csproj.AssemblyReference.cache
+D:\dev\C#\CSharpHisoty\OrderProject\OrderProject\obj\Debug\net7.0\OrderProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\CSharpHisoty\OrderProject\OrderProject\obj\Debug\net7.0\OrderProject.AssemblyInfoInputs.cache
+D:\dev\C#\CSharpHisoty\OrderProject\OrderProject\obj\Debug\net7.0\OrderProject.AssemblyInfo.cs
+D:\dev\C#\CSharpHisoty\OrderProject\OrderProject\obj\Debug\net7.0\OrderProject.csproj.CoreCompileInputs.cache
+D:\dev\C#\CSharpHisoty\OrderProject\OrderProject\obj\Debug\net7.0\OrderProject.dll
+D:\dev\C#\CSharpHisoty\OrderProject\OrderProject\obj\Debug\net7.0\refint\OrderProject.dll
+D:\dev\C#\CSharpHisoty\OrderProject\OrderProject\obj\Debug\net7.0\OrderProject.pdb
+D:\dev\C#\CSharpHisoty\OrderProject\OrderProject\obj\Debug\net7.0\OrderProject.genruntimeconfig.cache
+D:\dev\C#\CSharpHisoty\OrderProject\OrderProject\obj\Debug\net7.0\ref\OrderProject.dll
