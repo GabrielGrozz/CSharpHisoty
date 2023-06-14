@@ -4,6 +4,8 @@
 
     //como se trata de uma classe que irá se basear na classe Account, passamos a classe Account após os : para informarmos que iremos
     // nos basear nela, ou seja, usaremos o Account como herança
+
+    // o dois pontos(:) significa extend, ou seja, ele esta extendendo algo
     internal class BusinessAccount : Account
     {
         public double LoanLimit { get; set; }
