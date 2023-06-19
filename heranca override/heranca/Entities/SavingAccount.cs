@@ -14,5 +14,11 @@
             Balance += Balance * InterestRate;
         }
 
+        //aqui estamos fazendo um override no método do Account, isso seria como sobreescrever o método
+        public override void Withdraw(double amount)
+        {
+            Balance -= amount;
+        }
+
     }
 }
