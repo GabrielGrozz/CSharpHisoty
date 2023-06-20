@@ -19,7 +19,7 @@
         }
 
         //SOBREPOSIÇÃO  
-        // uma sobreposição seria nós utilizarmos um método de uma superclasse em uma subclasse
+// uma sobreposição seria nós utilizarmos um método de uma superclasse em uma subclasse
         //a palavra virtual serve para dizermos que esse metodo irá poder ser modificado nas subclasses, no caso será o mesmo método, mas de acordo com a subclasse
         //que chamar o metodo(**OLHAR AS SUBCLASSES**)
         public virtual void Withdraw(double amount)

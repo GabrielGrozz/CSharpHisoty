@@ -1,6 +1,7 @@
 ﻿namespace heranca.Entities
 {
-    internal class SavingAccount : Account
+    //PODEMOS UTILIZAR A PALAVRA SEALED NA CLASSE TAMBÉM, COM ISSO IREMOS IMPEDIR QUE ELA POSSA SER UMA SUPERCLASSE, ASSIM PODENDO MANTER A SEGURANÇA DE ALGUMAS SITUAÇÕES
+    internal sealed class SavingAccount : Account
     {
         public double InterestRate;
         public SavingAccount() { }
@@ -21,7 +22,9 @@
         //quando for necessário sobrescrever um método precisamo utilizar a palavra override nele
 
         //o método WithDraw é um método do Account, mas aqui estas modificando ele
-        public override void Withdraw(double amount)
+
+        // a palabvra sealed remete a um método selado, ela só pode ser usada em métodos sobrepostos(override), fazendo com que eles não possam mais ser sobrepostos
+        public sealed override void Withdraw(double amount)
         {
             Balance -= amount;
         }
