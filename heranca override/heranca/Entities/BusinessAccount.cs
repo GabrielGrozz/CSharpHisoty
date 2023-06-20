@@ -21,6 +21,14 @@
             }
         }
 
+        public override void Withdraw(double amount)
+        {
+            // a palavra base remete a nossa superclasse, nesse caso o método esta sendo chamado na super classe e iremos fazer
+            // o nosso tratamento após a execução so método na superclasse
+            base.Withdraw(amount);
+            Balance -= 2;
+        }
+
 
     }
 }

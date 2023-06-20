@@ -14,7 +14,13 @@
             Balance += Balance * InterestRate;
         }
 
-        //aqui estamos fazendo um override no método do Account, isso seria como sobreescrever o método
+        //SOBREPOSIÇÃO  
+        // uma sobreposição seria nós utilizarmos um método de uma superclasse em uma subclasse
+        //a
+        //
+        //quando for necessário sobrescrever um método precisamo utilizar a palavra override nele
+
+        //o método WithDraw é um método do Account, mas aqui estas modificando ele
         public override void Withdraw(double amount)
         {
             Balance -= amount;
