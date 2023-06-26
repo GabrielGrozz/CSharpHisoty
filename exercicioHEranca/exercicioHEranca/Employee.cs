@@ -2,21 +2,22 @@
 {
     internal class Employee
     {
+        public string Name { get; set; }
+        public int Hours { get; set; }
+        public double ValuePerHour { get; set; }
+
         public Employee() { }
         public Employee(string name, int hours, double valuePerHour)
         {
-            this.name = name;
-            this.hours = hours;
-            this.valuePerHour = valuePerHour;
+            Name = name;
+            Hours = hours;
+            ValuePerHour = valuePerHour;
         }
 
-        public string name;
-        public int hours;
-        public double valuePerHour;
-
-        public virtual double payment()
+        //virtual para podermons sobreescrever esse metodo nas subclasses
+        public virtual double Payment()
         {
-            return valuePerHour * hours;
+            return ValuePerHour * Hours;
         }
     }
 }

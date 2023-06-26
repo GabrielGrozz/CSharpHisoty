@@ -14,9 +14,9 @@
         }
 
         //utilizando o fundamento do override no método payment com sealed
-        public sealed override double payment()
+        public sealed override double Payment()
         {
-            double basePayment = base.payment();
+            double basePayment = base.Payment();
             return basePayment + AdditionalCharge * 1.1;
         }
 

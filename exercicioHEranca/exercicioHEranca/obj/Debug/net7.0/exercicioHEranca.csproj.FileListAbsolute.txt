@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\exercicioHEranca\exercicioHEranca\bin\Debug\net7.0\exercicioHEranca.exe
+C:\Users\Usuário\source\repos\exercicioHEranca\exercicioHEranca\bin\Debug\net7.0\exercicioHEranca.deps.json
+C:\Users\Usuário\source\repos\exercicioHEranca\exercicioHEranca\bin\Debug\net7.0\exercicioHEranca.runtimeconfig.json
+C:\Users\Usuário\source\repos\exercicioHEranca\exercicioHEranca\bin\Debug\net7.0\exercicioHEranca.dll
+C:\Users\Usuário\source\repos\exercicioHEranca\exercicioHEranca\bin\Debug\net7.0\exercicioHEranca.pdb
+C:\Users\Usuário\source\repos\exercicioHEranca\exercicioHEranca\obj\Debug\net7.0\exercicioHEranca.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\exercicioHEranca\exercicioHEranca\obj\Debug\net7.0\exercicioHEranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\exercicioHEranca\exercicioHEranca\obj\Debug\net7.0\exercicioHEranca.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\exercicioHEranca\exercicioHEranca\obj\Debug\net7.0\exercicioHEranca.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\exercicioHEranca\exercicioHEranca\obj\Debug\net7.0\exercicioHEranca.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\exercicioHEranca\exercicioHEranca\obj\Debug\net7.0\exercicioHEranca.dll
+C:\Users\Usuário\source\repos\exercicioHEranca\exercicioHEranca\obj\Debug\net7.0\refint\exercicioHEranca.dll
+C:\Users\Usuário\source\repos\exercicioHEranca\exercicioHEranca\obj\Debug\net7.0\exercicioHEranca.pdb
+C:\Users\Usuário\source\repos\exercicioHEranca\exercicioHEranca\obj\Debug\net7.0\exercicioHEranca.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\exercicioHEranca\exercicioHEranca\obj\Debug\net7.0\ref\exercicioHEranca.dll
