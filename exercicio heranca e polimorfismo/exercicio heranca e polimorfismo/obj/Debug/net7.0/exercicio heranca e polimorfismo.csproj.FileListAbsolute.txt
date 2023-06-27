@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\exercicio heranca e polimorfismo\exercicio heranca e polimorfismo\obj\Debug\net7.0\exercicio heranca e polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\exercicio heranca e polimorfismo\exercicio heranca e polimorfismo\obj\Debug\net7.0\exercicio heranca e polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\exercicio heranca e polimorfismo\exercicio heranca e polimorfismo\obj\Debug\net7.0\exercicio heranca e polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\exercicio heranca e polimorfismo\exercicio heranca e polimorfismo\obj\Debug\net7.0\exercicio heranca e polimorfismo.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\exercicio heranca e polimorfismo\exercicio heranca e polimorfismo\obj\Debug\net7.0\exercicio heranca e polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\exercicio heranca e polimorfismo\exercicio heranca e polimorfismo\bin\Debug\net7.0\exercicio heranca e polimorfismo.exe
+C:\Users\Usuário\source\repos\exercicio heranca e polimorfismo\exercicio heranca e polimorfismo\bin\Debug\net7.0\exercicio heranca e polimorfismo.deps.json
+C:\Users\Usuário\source\repos\exercicio heranca e polimorfismo\exercicio heranca e polimorfismo\bin\Debug\net7.0\exercicio heranca e polimorfismo.runtimeconfig.json
+C:\Users\Usuário\source\repos\exercicio heranca e polimorfismo\exercicio heranca e polimorfismo\bin\Debug\net7.0\exercicio heranca e polimorfismo.dll
+C:\Users\Usuário\source\repos\exercicio heranca e polimorfismo\exercicio heranca e polimorfismo\bin\Debug\net7.0\exercicio heranca e polimorfismo.pdb
+C:\Users\Usuário\source\repos\exercicio heranca e polimorfismo\exercicio heranca e polimorfismo\obj\Debug\net7.0\exercicio heranca e polimorfismo.dll
+C:\Users\Usuário\source\repos\exercicio heranca e polimorfismo\exercicio heranca e polimorfismo\obj\Debug\net7.0\refint\exercicio heranca e polimorfismo.dll
+C:\Users\Usuário\source\repos\exercicio heranca e polimorfismo\exercicio heranca e polimorfismo\obj\Debug\net7.0\exercicio heranca e polimorfismo.pdb
+C:\Users\Usuário\source\repos\exercicio heranca e polimorfismo\exercicio heranca e polimorfismo\obj\Debug\net7.0\exercicio heranca e polimorfismo.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\exercicio heranca e polimorfismo\exercicio heranca e polimorfismo\obj\Debug\net7.0\ref\exercicio heranca e polimorfismo.dll
