@@ -4,5 +4,6 @@
     {
         internal string Name { get; set; }
         internal double AnualIncome { get; set; }
+        internal abstract double TaxCalc();
     }
 }

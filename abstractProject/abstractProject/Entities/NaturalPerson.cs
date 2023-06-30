@@ -9,9 +9,10 @@
         //método para saber quanto uma pessoa fisica irá pagar
         internal override double TaxCalc()
         {
-            double TotalTaxPaid; 
+            double TotalTaxPaid;
 
-            if (AnualIncome < 20000.00) {
+            if (AnualIncome < 20000.00)
+            {
                 TotalTaxPaid = (AnualIncome * 0.15) - (HealthSpending * 0.50);
             }
             else
