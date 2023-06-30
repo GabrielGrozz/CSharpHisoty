@@ -1,15 +1,25 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AbstractProject.Entities
+﻿namespace AbstractProject.Entities
 {
-    internal class NaturalPerson
+    internal class NaturalPerson : PersonShape
     {
         internal string Name { get; set; }
         internal double AnualIncome { get; set; }
         internal double HealthSpending { get; set; }
+
+        //método para saber quanto uma pessoa fisica irá pagar
+        internal override double TaxCalc()
+        {
+            double TotalTaxPaid; 
+
+            if (AnualIncome < 20000.00) {
+                TotalTaxPaid = (AnualIncome * 0.15) - (HealthSpending * 0.50);
+            }
+            else
+            {
+                TotalTaxPaid = (AnualIncome * 0.25) - (HealthSpending * 0.50);
+            }
+
+            return TotalTaxPaid;
+        }
     }
 }

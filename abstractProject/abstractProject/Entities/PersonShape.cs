@@ -1,10 +1,8 @@
 ﻿namespace AbstractProject.Entities
 {
-    internal class LegalPerson : PersonShape
+    internal abstract class PersonShape
     {
         internal string Name { get; set; }
         internal double AnualIncome { get; set; }
-        internal int EmployeeQuantity { get; set; }
-
     }
 }
