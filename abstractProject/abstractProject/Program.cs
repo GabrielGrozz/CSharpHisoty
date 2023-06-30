@@ -5,6 +5,7 @@ Console.Write("Enter the number of tax payer: ");
 int taxPayersQuantity = int.Parse(Console.ReadLine());
 
 List<PersonShape> personsList = new List<PersonShape>();
+double TotalTaxes = 0;
 
 for (int i = 0; i < taxPayersQuantity; i++)
 {
@@ -18,6 +19,7 @@ for (int i = 0; i < taxPayersQuantity; i++)
 
     Console.Write("Anual income: ");
     double anualIncome = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
 
     if (typeOfPerson == 'i')
     {
@@ -38,11 +40,14 @@ for (int i = 0; i < taxPayersQuantity; i++)
     {
         Console.WriteLine("Tipo de pessoa invalido!!!");
     }
-
-    Console.WriteLine("TAXES PAID:");
-
-    foreach (PersonShape personShape in personsList)
-    {
-        Console.WriteLine($"{personShape.Name}: ${personShape.TaxCalc().ToString("F2", CultureInfo.InvariantCulture)}");
-    }
 }
+
+Console.WriteLine("TAXES PAID:");
+
+foreach (PersonShape personShape in personsList)
+{
+    Console.WriteLine($"{personShape.Name}: ${personShape.TaxCalc().ToString("F2", CultureInfo.InvariantCulture)}");
+    TotalTaxes += personShape.TaxCalc();
+}
+
+Console.WriteLine("TOTAL TAXES: $" + TotalTaxes.ToString("F2", CultureInfo.InvariantCulture));

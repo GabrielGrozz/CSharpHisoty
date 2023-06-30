@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\abstractProject\abstractProject\bin\Debug\net7.0\abstractProject.exe
+C:\Users\Usuário\source\repos\abstractProject\abstractProject\bin\Debug\net7.0\abstractProject.deps.json
+C:\Users\Usuário\source\repos\abstractProject\abstractProject\bin\Debug\net7.0\abstractProject.runtimeconfig.json
+C:\Users\Usuário\source\repos\abstractProject\abstractProject\bin\Debug\net7.0\abstractProject.dll
+C:\Users\Usuário\source\repos\abstractProject\abstractProject\bin\Debug\net7.0\abstractProject.pdb
+C:\Users\Usuário\source\repos\abstractProject\abstractProject\obj\Debug\net7.0\abstractProject.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\abstractProject\abstractProject\obj\Debug\net7.0\abstractProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\abstractProject\abstractProject\obj\Debug\net7.0\abstractProject.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\abstractProject\abstractProject\obj\Debug\net7.0\abstractProject.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\abstractProject\abstractProject\obj\Debug\net7.0\abstractProject.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\abstractProject\abstractProject\obj\Debug\net7.0\abstractProject.dll
+C:\Users\Usuário\source\repos\abstractProject\abstractProject\obj\Debug\net7.0\refint\abstractProject.dll
+C:\Users\Usuário\source\repos\abstractProject\abstractProject\obj\Debug\net7.0\abstractProject.pdb
+C:\Users\Usuário\source\repos\abstractProject\abstractProject\obj\Debug\net7.0\abstractProject.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\abstractProject\abstractProject\obj\Debug\net7.0\ref\abstractProject.dll
