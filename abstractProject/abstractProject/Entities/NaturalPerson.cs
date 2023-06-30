@@ -6,6 +6,11 @@
         internal double AnualIncome { get; set; }
         internal double HealthSpending { get; set; }
 
+        public NaturalPerson(string name, double anualIncome, double healthSpending) : base(name, anualIncome)
+        {
+            HealthSpending = healthSpending;
+        }
+
         //método para saber quanto uma pessoa fisica irá pagar
         internal override double TaxCalc()
         {

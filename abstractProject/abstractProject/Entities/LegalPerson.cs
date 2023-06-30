@@ -6,6 +6,11 @@
         internal double AnualIncome { get; set; }
         internal int EmployeeQuantity { get; set; }
 
+        public LegalPerson(string name, double anualIncome, int employeeQuantity) : base(name, anualIncome)
+        {
+            EmployeeQuantity = employeeQuantity;
+        }
+
         //método para calcular quanto de imposto a pessoa juridica irá pargar
         internal override double TaxCalc()
         {
