@@ -8,6 +8,7 @@
 
         public NaturalPerson(string name, double anualIncome, double healthSpending) : base(name, anualIncome)
         {
+            AnualIncome = anualIncome;
             HealthSpending = healthSpending;
         }
 
@@ -16,13 +17,13 @@
         {
             double TotalTaxPaid;
 
-            if (AnualIncome < 20000.00)
+            if (AnualIncome > 20000.00)
             {
-                TotalTaxPaid = (AnualIncome * 0.15) - (HealthSpending * 0.50);
+                TotalTaxPaid = AnualIncome * 0.25 - HealthSpending * 0.50;
             }
             else
             {
-                TotalTaxPaid = (AnualIncome * 0.25) - (HealthSpending * 0.50);
+                TotalTaxPaid = AnualIncome * 0.15 - HealthSpending * 0.50;
             }
 
             return TotalTaxPaid;
