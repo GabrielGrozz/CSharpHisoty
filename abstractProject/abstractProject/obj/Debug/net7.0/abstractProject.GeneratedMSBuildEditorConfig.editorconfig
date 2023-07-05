@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AbstractProject
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Usuário\source\repos\abstractProject\abstractProject\
+=======
+build_property.ProjectDir = D:\dev\C#\CSharpHisoty\abstractProject\abstractProject\
+>>>>>>> 7e38e0bbf63e8abe83a5525182d8cdf13f526ff2

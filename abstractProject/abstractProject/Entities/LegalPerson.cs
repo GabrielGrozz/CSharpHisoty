@@ -8,6 +8,7 @@
 
         public LegalPerson(string name, double anualIncome, int employeeQuantity) : base(name, anualIncome)
         {
+            AnualIncome = anualIncome;
             EmployeeQuantity = employeeQuantity;
         }
 
@@ -15,7 +16,7 @@
         internal override double TaxCalc()
         {
             double TotalTaxPaid;
-            if (EmployeeQuantity > 10)
+            if (EmployeeQuantity < 10)
             {
                 TotalTaxPaid = AnualIncome * 0.16;
             }
