@@ -1,0 +1,8 @@
+excessões são para que possamos tratar uma situação em que algo inesperado aconteça,
+no caso temos dois tipos de excessão, a ApplicationException que se trata de algo da
+algo que ela recebeu errado, como um int no lugar de uma string, ja a SystemException se trata de algo relacionado a aplicação,
+como selecionar uma posição do array que não existe, uma referencia nula e entre outros
+
+Com isso temos um tratamento para as exceptions, como por exemplo o try catch que
+irá tentar executar uma parte do código, caso ele não consiga executar corretamente
+ele irá cair no catch para resolver a exception.

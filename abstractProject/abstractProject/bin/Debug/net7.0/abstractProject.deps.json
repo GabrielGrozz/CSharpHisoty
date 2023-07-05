@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "abstractProject/1.0.0": {
+      "AbstractProject/1.0.0": {
         "runtime": {
-          "abstractProject.dll": {}
+          "AbstractProject.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "abstractProject/1.0.0": {
+    "AbstractProject/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
