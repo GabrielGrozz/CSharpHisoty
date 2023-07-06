@@ -1,0 +1,18 @@
+o bloco finnaly serve para encadearmos após o catch, ele
+se trata de um bloco que será executado independente da excessão ocorrer ou não,
+como por exemplo fechar um arquivo após a execução;
+
+try
+{
+lógica
+}
+catch(excessão)
+{
+tratamento da excessão
+}
+finally
+{
+lógica que será executada independentemente
+da situação
+}
+
