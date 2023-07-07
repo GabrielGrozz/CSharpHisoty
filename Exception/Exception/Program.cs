@@ -1,0 +1,4 @@
+﻿/*poderiamos fazer esse projeto de vairas formas, uma delas seria usando if e else aqui no próprio programa para tratarmos as excessões e erros, mas
+essa seria uma maneira muito ruim por: estar tudo no program, as excessões da classe devem ser tratadas dentro da classe, assim não expondo os tratamentos
+para o programa --//-- poderiamos tratar utilizando if e else fazendo com que retornase uma string dentro da classe, mas isso continuaria ruim msm funcionando, 
+como se trata de excessões podemos e devemos utilizar as Exceptions para tratar erros e excessões para manter a semantica do código, e tudo isso dentro da classe */
