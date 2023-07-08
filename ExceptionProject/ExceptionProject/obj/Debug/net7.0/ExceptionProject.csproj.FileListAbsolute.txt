@@ -1,0 +1,15 @@
+D:\dev\C#\CSharpHisoty\ExceptionProject\ExceptionProject\bin\Debug\net7.0\ExceptionProject.exe
+D:\dev\C#\CSharpHisoty\ExceptionProject\ExceptionProject\bin\Debug\net7.0\ExceptionProject.deps.json
+D:\dev\C#\CSharpHisoty\ExceptionProject\ExceptionProject\bin\Debug\net7.0\ExceptionProject.runtimeconfig.json
+D:\dev\C#\CSharpHisoty\ExceptionProject\ExceptionProject\bin\Debug\net7.0\ExceptionProject.dll
+D:\dev\C#\CSharpHisoty\ExceptionProject\ExceptionProject\bin\Debug\net7.0\ExceptionProject.pdb
+D:\dev\C#\CSharpHisoty\ExceptionProject\ExceptionProject\obj\Debug\net7.0\ExceptionProject.csproj.AssemblyReference.cache
+D:\dev\C#\CSharpHisoty\ExceptionProject\ExceptionProject\obj\Debug\net7.0\ExceptionProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\CSharpHisoty\ExceptionProject\ExceptionProject\obj\Debug\net7.0\ExceptionProject.AssemblyInfoInputs.cache
+D:\dev\C#\CSharpHisoty\ExceptionProject\ExceptionProject\obj\Debug\net7.0\ExceptionProject.AssemblyInfo.cs
+D:\dev\C#\CSharpHisoty\ExceptionProject\ExceptionProject\obj\Debug\net7.0\ExceptionProject.csproj.CoreCompileInputs.cache
+D:\dev\C#\CSharpHisoty\ExceptionProject\ExceptionProject\obj\Debug\net7.0\ExceptionProject.dll
+D:\dev\C#\CSharpHisoty\ExceptionProject\ExceptionProject\obj\Debug\net7.0\refint\ExceptionProject.dll
+D:\dev\C#\CSharpHisoty\ExceptionProject\ExceptionProject\obj\Debug\net7.0\ExceptionProject.pdb
+D:\dev\C#\CSharpHisoty\ExceptionProject\ExceptionProject\obj\Debug\net7.0\ExceptionProject.genruntimeconfig.cache
+D:\dev\C#\CSharpHisoty\ExceptionProject\ExceptionProject\obj\Debug\net7.0\ref\ExceptionProject.dll
