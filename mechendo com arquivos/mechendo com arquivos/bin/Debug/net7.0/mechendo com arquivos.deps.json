@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "mechendo com arquivos/1.0.0": {
+        "runtime": {
+          "mechendo com arquivos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mechendo com arquivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

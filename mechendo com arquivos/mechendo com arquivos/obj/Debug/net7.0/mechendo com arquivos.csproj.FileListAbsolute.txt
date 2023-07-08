@@ -1,0 +1,15 @@
+D:\dev\C#\CSharpHisoty\mechendo com arquivos\mechendo com arquivos\bin\Debug\net7.0\mechendo com arquivos.exe
+D:\dev\C#\CSharpHisoty\mechendo com arquivos\mechendo com arquivos\bin\Debug\net7.0\mechendo com arquivos.deps.json
+D:\dev\C#\CSharpHisoty\mechendo com arquivos\mechendo com arquivos\bin\Debug\net7.0\mechendo com arquivos.runtimeconfig.json
+D:\dev\C#\CSharpHisoty\mechendo com arquivos\mechendo com arquivos\bin\Debug\net7.0\mechendo com arquivos.dll
+D:\dev\C#\CSharpHisoty\mechendo com arquivos\mechendo com arquivos\bin\Debug\net7.0\mechendo com arquivos.pdb
+D:\dev\C#\CSharpHisoty\mechendo com arquivos\mechendo com arquivos\obj\Debug\net7.0\mechendo com arquivos.csproj.AssemblyReference.cache
+D:\dev\C#\CSharpHisoty\mechendo com arquivos\mechendo com arquivos\obj\Debug\net7.0\mechendo com arquivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\CSharpHisoty\mechendo com arquivos\mechendo com arquivos\obj\Debug\net7.0\mechendo com arquivos.AssemblyInfoInputs.cache
+D:\dev\C#\CSharpHisoty\mechendo com arquivos\mechendo com arquivos\obj\Debug\net7.0\mechendo com arquivos.AssemblyInfo.cs
+D:\dev\C#\CSharpHisoty\mechendo com arquivos\mechendo com arquivos\obj\Debug\net7.0\mechendo com arquivos.csproj.CoreCompileInputs.cache
+D:\dev\C#\CSharpHisoty\mechendo com arquivos\mechendo com arquivos\obj\Debug\net7.0\mechendo com arquivos.dll
+D:\dev\C#\CSharpHisoty\mechendo com arquivos\mechendo com arquivos\obj\Debug\net7.0\refint\mechendo com arquivos.dll
+D:\dev\C#\CSharpHisoty\mechendo com arquivos\mechendo com arquivos\obj\Debug\net7.0\mechendo com arquivos.pdb
+D:\dev\C#\CSharpHisoty\mechendo com arquivos\mechendo com arquivos\obj\Debug\net7.0\mechendo com arquivos.genruntimeconfig.cache
+D:\dev\C#\CSharpHisoty\mechendo com arquivos\mechendo com arquivos\obj\Debug\net7.0\ref\mechendo com arquivos.dll
