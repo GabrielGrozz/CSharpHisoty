@@ -1,0 +1,15 @@
+D:\dev\C#\CSharpHisoty\using\using\bin\Debug\net7.0\using.exe
+D:\dev\C#\CSharpHisoty\using\using\bin\Debug\net7.0\using.deps.json
+D:\dev\C#\CSharpHisoty\using\using\bin\Debug\net7.0\using.runtimeconfig.json
+D:\dev\C#\CSharpHisoty\using\using\bin\Debug\net7.0\using.dll
+D:\dev\C#\CSharpHisoty\using\using\bin\Debug\net7.0\using.pdb
+D:\dev\C#\CSharpHisoty\using\using\obj\Debug\net7.0\using.csproj.AssemblyReference.cache
+D:\dev\C#\CSharpHisoty\using\using\obj\Debug\net7.0\using.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\CSharpHisoty\using\using\obj\Debug\net7.0\using.AssemblyInfoInputs.cache
+D:\dev\C#\CSharpHisoty\using\using\obj\Debug\net7.0\using.AssemblyInfo.cs
+D:\dev\C#\CSharpHisoty\using\using\obj\Debug\net7.0\using.csproj.CoreCompileInputs.cache
+D:\dev\C#\CSharpHisoty\using\using\obj\Debug\net7.0\using.dll
+D:\dev\C#\CSharpHisoty\using\using\obj\Debug\net7.0\refint\using.dll
+D:\dev\C#\CSharpHisoty\using\using\obj\Debug\net7.0\using.pdb
+D:\dev\C#\CSharpHisoty\using\using\obj\Debug\net7.0\using.genruntimeconfig.cache
+D:\dev\C#\CSharpHisoty\using\using\obj\Debug\net7.0\ref\using.dll
