@@ -1,0 +1,15 @@
+D:\dev\C#\CSharpHisoty\stream\stream\bin\Debug\net7.0\stream.exe
+D:\dev\C#\CSharpHisoty\stream\stream\bin\Debug\net7.0\stream.deps.json
+D:\dev\C#\CSharpHisoty\stream\stream\bin\Debug\net7.0\stream.runtimeconfig.json
+D:\dev\C#\CSharpHisoty\stream\stream\bin\Debug\net7.0\stream.dll
+D:\dev\C#\CSharpHisoty\stream\stream\bin\Debug\net7.0\stream.pdb
+D:\dev\C#\CSharpHisoty\stream\stream\obj\Debug\net7.0\stream.csproj.AssemblyReference.cache
+D:\dev\C#\CSharpHisoty\stream\stream\obj\Debug\net7.0\stream.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\CSharpHisoty\stream\stream\obj\Debug\net7.0\stream.AssemblyInfoInputs.cache
+D:\dev\C#\CSharpHisoty\stream\stream\obj\Debug\net7.0\stream.AssemblyInfo.cs
+D:\dev\C#\CSharpHisoty\stream\stream\obj\Debug\net7.0\stream.csproj.CoreCompileInputs.cache
+D:\dev\C#\CSharpHisoty\stream\stream\obj\Debug\net7.0\stream.dll
+D:\dev\C#\CSharpHisoty\stream\stream\obj\Debug\net7.0\refint\stream.dll
+D:\dev\C#\CSharpHisoty\stream\stream\obj\Debug\net7.0\stream.pdb
+D:\dev\C#\CSharpHisoty\stream\stream\obj\Debug\net7.0\stream.genruntimeconfig.cache
+D:\dev\C#\CSharpHisoty\stream\stream\obj\Debug\net7.0\ref\stream.dll

@@ -30,7 +30,8 @@ try
         Console.WriteLine(line);
     }
 
-}catch(IOException e)
+}
+catch (IOException e)
 {
     Console.WriteLine("ERROR!");
     Console.WriteLine(e.Message);
