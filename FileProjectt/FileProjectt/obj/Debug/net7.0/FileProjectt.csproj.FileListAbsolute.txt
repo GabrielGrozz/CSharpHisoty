@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\FileProjectt\FileProjectt\bin\Debug\net7.0\FileProjectt.exe
+C:\Users\Usuário\source\repos\FileProjectt\FileProjectt\bin\Debug\net7.0\FileProjectt.deps.json
+C:\Users\Usuário\source\repos\FileProjectt\FileProjectt\bin\Debug\net7.0\FileProjectt.runtimeconfig.json
+C:\Users\Usuário\source\repos\FileProjectt\FileProjectt\bin\Debug\net7.0\FileProjectt.dll
+C:\Users\Usuário\source\repos\FileProjectt\FileProjectt\bin\Debug\net7.0\FileProjectt.pdb
+C:\Users\Usuário\source\repos\FileProjectt\FileProjectt\obj\Debug\net7.0\FileProjectt.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\FileProjectt\FileProjectt\obj\Debug\net7.0\FileProjectt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\FileProjectt\FileProjectt\obj\Debug\net7.0\FileProjectt.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\FileProjectt\FileProjectt\obj\Debug\net7.0\FileProjectt.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\FileProjectt\FileProjectt\obj\Debug\net7.0\FileProjectt.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\FileProjectt\FileProjectt\obj\Debug\net7.0\FileProjectt.dll
+C:\Users\Usuário\source\repos\FileProjectt\FileProjectt\obj\Debug\net7.0\refint\FileProjectt.dll
+C:\Users\Usuário\source\repos\FileProjectt\FileProjectt\obj\Debug\net7.0\FileProjectt.pdb
+C:\Users\Usuário\source\repos\FileProjectt\FileProjectt\obj\Debug\net7.0\FileProjectt.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\FileProjectt\FileProjectt\obj\Debug\net7.0\ref\FileProjectt.dll

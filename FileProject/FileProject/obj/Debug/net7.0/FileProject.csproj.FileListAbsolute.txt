@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\FileProject\FileProject\bin\Debug\net7.0\FileProject.exe
+C:\Users\Usuário\source\repos\FileProject\FileProject\bin\Debug\net7.0\FileProject.deps.json
+C:\Users\Usuário\source\repos\FileProject\FileProject\bin\Debug\net7.0\FileProject.runtimeconfig.json
+C:\Users\Usuário\source\repos\FileProject\FileProject\bin\Debug\net7.0\FileProject.dll
+C:\Users\Usuário\source\repos\FileProject\FileProject\bin\Debug\net7.0\FileProject.pdb
+C:\Users\Usuário\source\repos\FileProject\FileProject\obj\Debug\net7.0\FileProject.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\FileProject\FileProject\obj\Debug\net7.0\FileProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\FileProject\FileProject\obj\Debug\net7.0\FileProject.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\FileProject\FileProject\obj\Debug\net7.0\FileProject.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\FileProject\FileProject\obj\Debug\net7.0\FileProject.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\FileProject\FileProject\obj\Debug\net7.0\FileProject.dll
+C:\Users\Usuário\source\repos\FileProject\FileProject\obj\Debug\net7.0\refint\FileProject.dll
+C:\Users\Usuário\source\repos\FileProject\FileProject\obj\Debug\net7.0\FileProject.pdb
+C:\Users\Usuário\source\repos\FileProject\FileProject\obj\Debug\net7.0\FileProject.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\FileProject\FileProject\obj\Debug\net7.0\ref\FileProject.dll
