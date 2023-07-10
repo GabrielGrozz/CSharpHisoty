@@ -21,7 +21,7 @@ try
         }
     }
 }
-catch (Exception e)
+catch (IOException e)
 {
     Console.WriteLine("[ERROR] -- " + e.Message);
 }
