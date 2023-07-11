@@ -1,4 +1,6 @@
-﻿namespace FileProject.ENTITIES
+﻿using System.Xml.Schema;
+
+namespace FileProject.ENTITIES
 {
     internal class Order
     {
@@ -12,6 +14,11 @@
             Name = name;
             Value = value;
             Quantity = quantity;
+        }
+
+        public double TotalValue()
+        {
+            return Value * Quantity;
         }
     }
 }
