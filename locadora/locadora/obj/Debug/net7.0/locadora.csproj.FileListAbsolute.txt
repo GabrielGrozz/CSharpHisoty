@@ -1,0 +1,15 @@
+D:\dev\C#\CSharpHisoty\locadora\locadora\bin\Debug\net7.0\locadora.exe
+D:\dev\C#\CSharpHisoty\locadora\locadora\bin\Debug\net7.0\locadora.deps.json
+D:\dev\C#\CSharpHisoty\locadora\locadora\bin\Debug\net7.0\locadora.runtimeconfig.json
+D:\dev\C#\CSharpHisoty\locadora\locadora\bin\Debug\net7.0\locadora.dll
+D:\dev\C#\CSharpHisoty\locadora\locadora\bin\Debug\net7.0\locadora.pdb
+D:\dev\C#\CSharpHisoty\locadora\locadora\obj\Debug\net7.0\locadora.csproj.AssemblyReference.cache
+D:\dev\C#\CSharpHisoty\locadora\locadora\obj\Debug\net7.0\locadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\CSharpHisoty\locadora\locadora\obj\Debug\net7.0\locadora.AssemblyInfoInputs.cache
+D:\dev\C#\CSharpHisoty\locadora\locadora\obj\Debug\net7.0\locadora.AssemblyInfo.cs
+D:\dev\C#\CSharpHisoty\locadora\locadora\obj\Debug\net7.0\locadora.csproj.CoreCompileInputs.cache
+D:\dev\C#\CSharpHisoty\locadora\locadora\obj\Debug\net7.0\locadora.dll
+D:\dev\C#\CSharpHisoty\locadora\locadora\obj\Debug\net7.0\refint\locadora.dll
+D:\dev\C#\CSharpHisoty\locadora\locadora\obj\Debug\net7.0\locadora.pdb
+D:\dev\C#\CSharpHisoty\locadora\locadora\obj\Debug\net7.0\locadora.genruntimeconfig.cache
+D:\dev\C#\CSharpHisoty\locadora\locadora\obj\Debug\net7.0\ref\locadora.dll
