@@ -1,7 +1,9 @@
 ﻿namespace locadora.SERVICE
 {
-    internal class BrazilTaxService
+    internal class BrazilTaxService : ItaxService
     {
+        //essa classe será dependente da ItaxService, logo os nome das variaveis devem bater
+
         //se o valor do aluguel for infeiror a 100, o imposto será 20%, caso seja maior que isso será 15%
         public double Tax(double amount)
         {
