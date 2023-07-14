@@ -22,9 +22,13 @@ double pricePerDay = double.Parse(Console.ReadLine(), CultureInfo.InvariantCultu
 //como o vehicle dentro de CarRental é uma classe vehicle, precisamos instanciar uma classe de vehicle antes de passala como argumento
 Vehicle vehicle = new Vehicle(carModel);
 CarRental carRental = new CarRental(pickupDate, returnDate, vehicle);
-ItaxService brazilTax = new BrazilTaxService();
 
-RentalService rentalService = new RentalService(pricePerHour, pricePerDay, brazilTax);
+// a nossa classe RentalService está fechada para alterações, como estamos utilizando interfaces agora, não é necessário mudar a classe, mas sim a busclasse da interface
+
+//isso que fizemos é uma injeção de depêndencia, que consiste em instanciarmos uma classe(no caso a RentalService) e ja conseguirmos falar qual será o objeto do qual ele irá]
+//depender(no caso, o RentalService será dependente da classe BrazilTaxSercice)
+//como conseguimos ja informar a classe que ele será dependente, isso que estamos fazendo se chama injeção de dependência.
+RentalService rentalService = new RentalService(pricePerHour, pricePerDay, new BrazilTaxService());
 
 rentalService.ProcessInvoice(carRental);
 

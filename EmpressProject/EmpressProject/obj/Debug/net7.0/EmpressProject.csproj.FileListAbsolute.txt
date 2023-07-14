@@ -1,0 +1,5 @@
+D:\dev\C#\CSharpHisoty\EmpressProject\EmpressProject\obj\Debug\net7.0\EmpressProject.csproj.AssemblyReference.cache
+D:\dev\C#\CSharpHisoty\EmpressProject\EmpressProject\obj\Debug\net7.0\EmpressProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\CSharpHisoty\EmpressProject\EmpressProject\obj\Debug\net7.0\EmpressProject.AssemblyInfoInputs.cache
+D:\dev\C#\CSharpHisoty\EmpressProject\EmpressProject\obj\Debug\net7.0\EmpressProject.AssemblyInfo.cs
+D:\dev\C#\CSharpHisoty\EmpressProject\EmpressProject\obj\Debug\net7.0\EmpressProject.csproj.CoreCompileInputs.cache
