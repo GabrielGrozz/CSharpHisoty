@@ -3,6 +3,6 @@
     //calcula a taxa 
     public interface ITaxService
     {
-        double tax(double amount);
+        double tax(double amount, int quantity);
     }
 }

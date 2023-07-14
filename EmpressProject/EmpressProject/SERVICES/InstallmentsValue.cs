@@ -1,4 +1,4 @@
-﻿using System.Diagnostics.Contracts;
+﻿using EmpressProject.ENTITIES;
 
 namespace EmpressProject.SERVICES
 {
@@ -8,16 +8,19 @@ namespace EmpressProject.SERVICES
         public int InstallmentsQuantity { get; set; }
         public double InstallmentsTotalValue { get; set; }
 
-        public InstallmentsValue(int installmentsQuantity, double installmentsValue)
+        private ITaxService _TaxService;
+
+        public InstallmentsValue(int installmentsQuantity, ITaxService taxService)
         {
             InstallmentsQuantity = installmentsQuantity;
-            InstallmentsTotalValue = installmentsValue;
+            _TaxService = taxService;
         }
 
-        public void CalcInstallmentsValue(Contract contract)
+        public void CalcInstallmentsValue(ENTITIES.Contract contract)
         {
-            
+            InstallmentsTotalValue = contract.TotalValue / InstallmentsQuantity;
+
 
         }
-    }X
+    }
 }
