@@ -4,7 +4,7 @@
     {
         public double tax(double amount)
         {
-            
+            return 10;  
         }
     }
 }
