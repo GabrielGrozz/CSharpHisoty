@@ -1,5 +1,6 @@
 ﻿namespace EmpressProject.SERVICES
 {
+    //taxa que iremos utilizar no projeto
     internal class PaypalTax : ITaxService
     {
         //é necessário fazer um for na hora de gerar o installments(parcelas)

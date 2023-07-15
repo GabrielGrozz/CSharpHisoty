@@ -1,8 +1,6 @@
-﻿using EmpressProject.ENTITIES;
-
-namespace EmpressProject.SERVICES
+﻿namespace EmpressProject.SERVICES
 {
-    //total que as parcelas irão ser
+    // service que irá calcular o valor de cada installment
     internal class InstallmentsValue
     {
         public int InstallmentsQuantity { get; set; }
@@ -15,10 +13,10 @@ namespace EmpressProject.SERVICES
             InstallmentsQuantity = installmentsQuantity;
             _TaxService = taxService;
             InstallmentsTotalValue = 0;
-
         }
 
-
+        //método que irá calcular, primeiró pegando o valor total e dividindo pela quantidade de parcelas e após isso irá aplicar as taxas
+        //após issó irá gerar um novo instalment e chamar o Generator.Generate que irá adicionar a installment no Contract
         public void CalcInstallmentsValue(ENTITIES.Contract contract)
         {
             InstallmentsTotalValue = contract.TotalValue / InstallmentsQuantity;

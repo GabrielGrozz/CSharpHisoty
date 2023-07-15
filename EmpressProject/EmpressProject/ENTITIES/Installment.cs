@@ -1,5 +1,6 @@
 ﻿namespace EmpressProject.ENTITIES
 {
+    //classe do installment
     internal class Installment
     {
         public DateTime DueDate { get; set; }

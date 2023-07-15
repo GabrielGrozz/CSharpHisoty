@@ -1,5 +1,6 @@
-﻿using System.Globalization;
-using EmpressProject.ENTITIES;
+﻿using EmpressProject.ENTITIES;
+
+//service para gerar o Installemnt
 
 namespace EmpressProject.SERVICES
 {
@@ -16,6 +17,7 @@ namespace EmpressProject.SERVICES
             InstallmentValue = installmentValue;
         }
 
+        //função que irá gerar o installments
         public void Generate()
         {
             DateTime dueDate = ContractData.Date.AddMonths(InstallmentQuantity + 1);
