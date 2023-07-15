@@ -14,13 +14,23 @@ namespace EmpressProject.SERVICES
         {
             InstallmentsQuantity = installmentsQuantity;
             _TaxService = taxService;
+            InstallmentsTotalValue = 0;
+
         }
+
 
         public void CalcInstallmentsValue(ENTITIES.Contract contract)
         {
             InstallmentsTotalValue = contract.TotalValue / InstallmentsQuantity;
 
+            for (int i = 0; i < InstallmentsQuantity; i++)
+            {
+                double ValueWithTax = _TaxService.tax(InstallmentsTotalValue, i);
 
+                InstallmentCreator Generator = new InstallmentCreator(contract, i, ValueWithTax);
+
+                Generator.Generate();
+            }
         }
     }
 }

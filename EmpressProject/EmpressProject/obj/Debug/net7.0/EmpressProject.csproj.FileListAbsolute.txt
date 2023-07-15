@@ -3,3 +3,13 @@ D:\dev\C#\CSharpHisoty\EmpressProject\EmpressProject\obj\Debug\net7.0\EmpressPro
 D:\dev\C#\CSharpHisoty\EmpressProject\EmpressProject\obj\Debug\net7.0\EmpressProject.AssemblyInfoInputs.cache
 D:\dev\C#\CSharpHisoty\EmpressProject\EmpressProject\obj\Debug\net7.0\EmpressProject.AssemblyInfo.cs
 D:\dev\C#\CSharpHisoty\EmpressProject\EmpressProject\obj\Debug\net7.0\EmpressProject.csproj.CoreCompileInputs.cache
+D:\dev\C#\CSharpHisoty\EmpressProject\EmpressProject\bin\Debug\net7.0\EmpressProject.exe
+D:\dev\C#\CSharpHisoty\EmpressProject\EmpressProject\bin\Debug\net7.0\EmpressProject.deps.json
+D:\dev\C#\CSharpHisoty\EmpressProject\EmpressProject\bin\Debug\net7.0\EmpressProject.runtimeconfig.json
+D:\dev\C#\CSharpHisoty\EmpressProject\EmpressProject\bin\Debug\net7.0\EmpressProject.dll
+D:\dev\C#\CSharpHisoty\EmpressProject\EmpressProject\bin\Debug\net7.0\EmpressProject.pdb
+D:\dev\C#\CSharpHisoty\EmpressProject\EmpressProject\obj\Debug\net7.0\EmpressProject.dll
+D:\dev\C#\CSharpHisoty\EmpressProject\EmpressProject\obj\Debug\net7.0\refint\EmpressProject.dll
+D:\dev\C#\CSharpHisoty\EmpressProject\EmpressProject\obj\Debug\net7.0\EmpressProject.pdb
+D:\dev\C#\CSharpHisoty\EmpressProject\EmpressProject\obj\Debug\net7.0\EmpressProject.genruntimeconfig.cache
+D:\dev\C#\CSharpHisoty\EmpressProject\EmpressProject\obj\Debug\net7.0\ref\EmpressProject.dll

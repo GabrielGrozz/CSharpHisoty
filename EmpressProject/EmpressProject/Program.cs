@@ -1,4 +1,5 @@
 ﻿using System.Globalization;
+using System.Net.Http.Headers;
 using EmpressProject.ENTITIES;
 using EmpressProject.SERVICES;
 
@@ -17,5 +18,5 @@ Console.Write("Enter number of installments: ");
 int contractInstallments = int.Parse(Console.ReadLine());
 
 Contract contract = new Contract(contractNumber, contractDate, contractValue);
-InstallmentsValue installment = new InstallmentsValue(contractInstallments, contractValue);
-
+InstallmentsValue installment = new InstallmentsValue(contractInstallments, new PaypalTax());
+installment.CalcInstallmentsValue(contract);

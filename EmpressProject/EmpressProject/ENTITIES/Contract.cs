@@ -2,10 +2,12 @@
 {
     internal class Contract
     {
+
         public int Number { get; set; }
         public DateTime Date { get; set; }
         public double TotalValue { get; set; }
-        public Installment Installments;
+
+        public List<Installment> Installments;
 
         public Contract(int number, DateTime date, double totalValue)
         {
@@ -15,5 +17,6 @@
             Installments = null;
 
         }
+
     }
 }

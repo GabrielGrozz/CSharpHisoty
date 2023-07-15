@@ -1,14 +1,28 @@
-﻿using EmpressProject.ENTITIES;
+﻿using System.Globalization;
+using EmpressProject.ENTITIES;
+using Microsoft.VisualBasic;
+using System.ComponentModel;
+
 namespace EmpressProject.SERVICES
 {
     internal class InstallmentCreator
     {
+        public Contract ContractData { get; set; }
+        public int InstallmentQuantity { get; set; }
+        public double InstallmentValue { get; set; }
 
-        public void InstallmentGenerator(Contract contract)
+        public InstallmentCreator(Contract contract, int installmentQuantity, double installmentValue)
         {
+            ContractData = contract;
+            InstallmentQuantity = installmentQuantity;
+            InstallmentValue = installmentValue;
+        }
 
-            contract.Installments = new Installment();
-          }
+        public void Generate()
+        {
+            DateTime dueDate = ContractData.Date;
 
+            Console.WriteLine(InstallmentValue.ToString("F2", CultureInfo.InvariantCulture));
+        }
     }
 }
