@@ -2,13 +2,13 @@
 {
     internal class Installment
     {
-        public int DueDate { get; set; }
+        public DateTime DueDate { get; set; }
         public double Amount { get; set; }
 
-        public Installment()
+        public Installment(DateTime dueDate, double amount)
         {
-            DueDate = 1;
-            Amount = 120;
+            DueDate = dueDate;
+            Amount = amount;
         }
     }
 }

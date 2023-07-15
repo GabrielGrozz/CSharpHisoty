@@ -14,7 +14,7 @@
             Number = number;
             Date = date;
             TotalValue = totalValue;
-            Installments = null;
+            Installments = new List<Installment>();
 
         }
 

@@ -1,7 +1,5 @@
 ﻿using System.Globalization;
 using EmpressProject.ENTITIES;
-using Microsoft.VisualBasic;
-using System.ComponentModel;
 
 namespace EmpressProject.SERVICES
 {
@@ -20,9 +18,11 @@ namespace EmpressProject.SERVICES
 
         public void Generate()
         {
-            DateTime dueDate = ContractData.Date;
+            DateTime dueDate = ContractData.Date.AddMonths(InstallmentQuantity + 1);
 
-            Console.WriteLine(InstallmentValue.ToString("F2", CultureInfo.InvariantCulture));
+            Installment generatedInstallment = new Installment(dueDate, InstallmentValue);
+
+            ContractData.Installments.Add(generatedInstallment);
         }
-    }
+}
 }
