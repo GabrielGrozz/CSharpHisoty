@@ -1,0 +1,15 @@
+D:\dev\C#\CSharpHisoty\IComparable\IComparable\bin\Debug\net7.0\IComparableClass.exe
+D:\dev\C#\CSharpHisoty\IComparable\IComparable\bin\Debug\net7.0\IComparableClass.deps.json
+D:\dev\C#\CSharpHisoty\IComparable\IComparable\bin\Debug\net7.0\IComparableClass.runtimeconfig.json
+D:\dev\C#\CSharpHisoty\IComparable\IComparable\bin\Debug\net7.0\IComparableClass.dll
+D:\dev\C#\CSharpHisoty\IComparable\IComparable\bin\Debug\net7.0\IComparableClass.pdb
+D:\dev\C#\CSharpHisoty\IComparable\IComparable\obj\Debug\net7.0\IComparableClass.csproj.AssemblyReference.cache
+D:\dev\C#\CSharpHisoty\IComparable\IComparable\obj\Debug\net7.0\IComparableClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\CSharpHisoty\IComparable\IComparable\obj\Debug\net7.0\IComparableClass.AssemblyInfoInputs.cache
+D:\dev\C#\CSharpHisoty\IComparable\IComparable\obj\Debug\net7.0\IComparableClass.AssemblyInfo.cs
+D:\dev\C#\CSharpHisoty\IComparable\IComparable\obj\Debug\net7.0\IComparableClass.csproj.CoreCompileInputs.cache
+D:\dev\C#\CSharpHisoty\IComparable\IComparable\obj\Debug\net7.0\IComparableClass.dll
+D:\dev\C#\CSharpHisoty\IComparable\IComparable\obj\Debug\net7.0\refint\IComparableClass.dll
+D:\dev\C#\CSharpHisoty\IComparable\IComparable\obj\Debug\net7.0\IComparableClass.pdb
+D:\dev\C#\CSharpHisoty\IComparable\IComparable\obj\Debug\net7.0\IComparableClass.genruntimeconfig.cache
+D:\dev\C#\CSharpHisoty\IComparable\IComparable\obj\Debug\net7.0\ref\IComparableClass.dll

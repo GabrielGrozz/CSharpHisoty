@@ -1,0 +1,15 @@
+D:\dev\C#\CSharpHisoty\Diamanter\Diamanter\bin\Debug\net7.0\Diamanter.exe
+D:\dev\C#\CSharpHisoty\Diamanter\Diamanter\bin\Debug\net7.0\Diamanter.deps.json
+D:\dev\C#\CSharpHisoty\Diamanter\Diamanter\bin\Debug\net7.0\Diamanter.runtimeconfig.json
+D:\dev\C#\CSharpHisoty\Diamanter\Diamanter\bin\Debug\net7.0\Diamanter.dll
+D:\dev\C#\CSharpHisoty\Diamanter\Diamanter\bin\Debug\net7.0\Diamanter.pdb
+D:\dev\C#\CSharpHisoty\Diamanter\Diamanter\obj\Debug\net7.0\Diamanter.csproj.AssemblyReference.cache
+D:\dev\C#\CSharpHisoty\Diamanter\Diamanter\obj\Debug\net7.0\Diamanter.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\CSharpHisoty\Diamanter\Diamanter\obj\Debug\net7.0\Diamanter.AssemblyInfoInputs.cache
+D:\dev\C#\CSharpHisoty\Diamanter\Diamanter\obj\Debug\net7.0\Diamanter.AssemblyInfo.cs
+D:\dev\C#\CSharpHisoty\Diamanter\Diamanter\obj\Debug\net7.0\Diamanter.csproj.CoreCompileInputs.cache
+D:\dev\C#\CSharpHisoty\Diamanter\Diamanter\obj\Debug\net7.0\Diamanter.dll
+D:\dev\C#\CSharpHisoty\Diamanter\Diamanter\obj\Debug\net7.0\refint\Diamanter.dll
+D:\dev\C#\CSharpHisoty\Diamanter\Diamanter\obj\Debug\net7.0\Diamanter.pdb
+D:\dev\C#\CSharpHisoty\Diamanter\Diamanter\obj\Debug\net7.0\Diamanter.genruntimeconfig.cache
+D:\dev\C#\CSharpHisoty\Diamanter\Diamanter\obj\Debug\net7.0\ref\Diamanter.dll
