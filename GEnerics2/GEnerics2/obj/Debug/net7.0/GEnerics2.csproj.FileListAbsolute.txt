@@ -1,0 +1,15 @@
+D:\dev\C#\CSharpHisoty\GEnerics2\GEnerics2\obj\Debug\net7.0\GEnerics2.csproj.AssemblyReference.cache
+D:\dev\C#\CSharpHisoty\GEnerics2\GEnerics2\obj\Debug\net7.0\GEnerics2.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\CSharpHisoty\GEnerics2\GEnerics2\obj\Debug\net7.0\GEnerics2.AssemblyInfoInputs.cache
+D:\dev\C#\CSharpHisoty\GEnerics2\GEnerics2\obj\Debug\net7.0\GEnerics2.AssemblyInfo.cs
+D:\dev\C#\CSharpHisoty\GEnerics2\GEnerics2\obj\Debug\net7.0\GEnerics2.csproj.CoreCompileInputs.cache
+D:\dev\C#\CSharpHisoty\GEnerics2\GEnerics2\bin\Debug\net7.0\GEnerics2.exe
+D:\dev\C#\CSharpHisoty\GEnerics2\GEnerics2\bin\Debug\net7.0\GEnerics2.deps.json
+D:\dev\C#\CSharpHisoty\GEnerics2\GEnerics2\bin\Debug\net7.0\GEnerics2.runtimeconfig.json
+D:\dev\C#\CSharpHisoty\GEnerics2\GEnerics2\bin\Debug\net7.0\GEnerics2.dll
+D:\dev\C#\CSharpHisoty\GEnerics2\GEnerics2\bin\Debug\net7.0\GEnerics2.pdb
+D:\dev\C#\CSharpHisoty\GEnerics2\GEnerics2\obj\Debug\net7.0\GEnerics2.dll
+D:\dev\C#\CSharpHisoty\GEnerics2\GEnerics2\obj\Debug\net7.0\refint\GEnerics2.dll
+D:\dev\C#\CSharpHisoty\GEnerics2\GEnerics2\obj\Debug\net7.0\GEnerics2.pdb
+D:\dev\C#\CSharpHisoty\GEnerics2\GEnerics2\obj\Debug\net7.0\GEnerics2.genruntimeconfig.cache
+D:\dev\C#\CSharpHisoty\GEnerics2\GEnerics2\obj\Debug\net7.0\ref\GEnerics2.dll
