@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace GEnerics2.Entities
+﻿namespace GEnerics2.Entities
 {
-    internal class Product
+    internal class Product : IComparable
     {
         public string Name { get; set; }
         public double Value { get; set; }
@@ -15,6 +9,16 @@ namespace GEnerics2.Entities
         {
             Name = name;
             Value = value;
+        }
+
+        public int CompareTo(object obj)
+        {
+            if (!(obj is Product)) throw new ArgumentException("object is not a Product type");
+
+            //fazendo o processo de downcast
+            Product other = obj as Product;
+
+            return Value.CompareTo(other.Value);
         }
     }
 }
