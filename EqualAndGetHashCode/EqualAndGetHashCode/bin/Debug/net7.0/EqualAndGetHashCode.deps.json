@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EqualAndGetHashCode/1.0.0": {
+        "runtime": {
+          "EqualAndGetHashCode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EqualAndGetHashCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

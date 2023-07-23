@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\EqualAndGetHashCode\EqualAndGetHashCode\bin\Debug\net7.0\EqualAndGetHashCode.exe
+C:\Users\Usuário\source\repos\EqualAndGetHashCode\EqualAndGetHashCode\bin\Debug\net7.0\EqualAndGetHashCode.deps.json
+C:\Users\Usuário\source\repos\EqualAndGetHashCode\EqualAndGetHashCode\bin\Debug\net7.0\EqualAndGetHashCode.runtimeconfig.json
+C:\Users\Usuário\source\repos\EqualAndGetHashCode\EqualAndGetHashCode\bin\Debug\net7.0\EqualAndGetHashCode.dll
+C:\Users\Usuário\source\repos\EqualAndGetHashCode\EqualAndGetHashCode\bin\Debug\net7.0\EqualAndGetHashCode.pdb
+C:\Users\Usuário\source\repos\EqualAndGetHashCode\EqualAndGetHashCode\obj\Debug\net7.0\EqualAndGetHashCode.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\EqualAndGetHashCode\EqualAndGetHashCode\obj\Debug\net7.0\EqualAndGetHashCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\EqualAndGetHashCode\EqualAndGetHashCode\obj\Debug\net7.0\EqualAndGetHashCode.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\EqualAndGetHashCode\EqualAndGetHashCode\obj\Debug\net7.0\EqualAndGetHashCode.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\EqualAndGetHashCode\EqualAndGetHashCode\obj\Debug\net7.0\EqualAndGetHashCode.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\EqualAndGetHashCode\EqualAndGetHashCode\obj\Debug\net7.0\EqualAndGetHashCode.dll
+C:\Users\Usuário\source\repos\EqualAndGetHashCode\EqualAndGetHashCode\obj\Debug\net7.0\refint\EqualAndGetHashCode.dll
+C:\Users\Usuário\source\repos\EqualAndGetHashCode\EqualAndGetHashCode\obj\Debug\net7.0\EqualAndGetHashCode.pdb
+C:\Users\Usuário\source\repos\EqualAndGetHashCode\EqualAndGetHashCode\obj\Debug\net7.0\EqualAndGetHashCode.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\EqualAndGetHashCode\EqualAndGetHashCode\obj\Debug\net7.0\ref\EqualAndGetHashCode.dll
