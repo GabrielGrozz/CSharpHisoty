@@ -1,0 +1,15 @@
+D:\dev\C#\CSharpHisoty\GetHash\GetHash\bin\Debug\net7.0\GetHash.exe
+D:\dev\C#\CSharpHisoty\GetHash\GetHash\bin\Debug\net7.0\GetHash.deps.json
+D:\dev\C#\CSharpHisoty\GetHash\GetHash\bin\Debug\net7.0\GetHash.runtimeconfig.json
+D:\dev\C#\CSharpHisoty\GetHash\GetHash\bin\Debug\net7.0\GetHash.dll
+D:\dev\C#\CSharpHisoty\GetHash\GetHash\bin\Debug\net7.0\GetHash.pdb
+D:\dev\C#\CSharpHisoty\GetHash\GetHash\obj\Debug\net7.0\GetHash.csproj.AssemblyReference.cache
+D:\dev\C#\CSharpHisoty\GetHash\GetHash\obj\Debug\net7.0\GetHash.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\CSharpHisoty\GetHash\GetHash\obj\Debug\net7.0\GetHash.AssemblyInfoInputs.cache
+D:\dev\C#\CSharpHisoty\GetHash\GetHash\obj\Debug\net7.0\GetHash.AssemblyInfo.cs
+D:\dev\C#\CSharpHisoty\GetHash\GetHash\obj\Debug\net7.0\GetHash.csproj.CoreCompileInputs.cache
+D:\dev\C#\CSharpHisoty\GetHash\GetHash\obj\Debug\net7.0\GetHash.dll
+D:\dev\C#\CSharpHisoty\GetHash\GetHash\obj\Debug\net7.0\refint\GetHash.dll
+D:\dev\C#\CSharpHisoty\GetHash\GetHash\obj\Debug\net7.0\GetHash.pdb
+D:\dev\C#\CSharpHisoty\GetHash\GetHash\obj\Debug\net7.0\GetHash.genruntimeconfig.cache
+D:\dev\C#\CSharpHisoty\GetHash\GetHash\obj\Debug\net7.0\ref\GetHash.dll
