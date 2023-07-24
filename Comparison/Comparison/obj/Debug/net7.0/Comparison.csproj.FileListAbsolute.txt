@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\CSharpHisoty\Comparison\Comparison\bin\Debug\net7.0\Comparison.exe
+C:\Users\Usuário\source\repos\CSharpHisoty\Comparison\Comparison\bin\Debug\net7.0\Comparison.deps.json
+C:\Users\Usuário\source\repos\CSharpHisoty\Comparison\Comparison\bin\Debug\net7.0\Comparison.runtimeconfig.json
+C:\Users\Usuário\source\repos\CSharpHisoty\Comparison\Comparison\bin\Debug\net7.0\Comparison.dll
+C:\Users\Usuário\source\repos\CSharpHisoty\Comparison\Comparison\bin\Debug\net7.0\Comparison.pdb
+C:\Users\Usuário\source\repos\CSharpHisoty\Comparison\Comparison\obj\Debug\net7.0\Comparison.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\CSharpHisoty\Comparison\Comparison\obj\Debug\net7.0\Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\CSharpHisoty\Comparison\Comparison\obj\Debug\net7.0\Comparison.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\CSharpHisoty\Comparison\Comparison\obj\Debug\net7.0\Comparison.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\CSharpHisoty\Comparison\Comparison\obj\Debug\net7.0\Comparison.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\CSharpHisoty\Comparison\Comparison\obj\Debug\net7.0\Comparison.dll
+C:\Users\Usuário\source\repos\CSharpHisoty\Comparison\Comparison\obj\Debug\net7.0\refint\Comparison.dll
+C:\Users\Usuário\source\repos\CSharpHisoty\Comparison\Comparison\obj\Debug\net7.0\Comparison.pdb
+C:\Users\Usuário\source\repos\CSharpHisoty\Comparison\Comparison\obj\Debug\net7.0\Comparison.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\CSharpHisoty\Comparison\Comparison\obj\Debug\net7.0\ref\Comparison.dll
