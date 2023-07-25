@@ -19,7 +19,7 @@ products.Add(new Product("microondas", 350.00));
 
 //porém também podemos passar o predicate, ele funciona igual a um delegate
 
-//no caso, a difença de um predicate pra um delegate é que um predicate recebe uma classe(no nosso caso o product) e irá retornar
+//no caso, a difença de um predicate pra um delegate é que um predicate irá retornar
 //um booleano, diferente do delegate, que pode ter e ser de outros tipos além de conter parametro diferentes
 products.RemoveAll(Product.ProductTest);
 
