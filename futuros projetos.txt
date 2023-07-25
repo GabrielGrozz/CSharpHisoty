@@ -1,0 +1,10 @@
+aqui irei armazenar ideias para futuros
+projetos que posso fazer para consolidar
+alguns de meus conhecimentos.
+
+-sistema gerador de formas(quadrado, circulo, ...) com seus respectivos
+métodos(raio, area, ...).
+
+-sistema de pedidos de uma hamburgueria/comida japonesa/espetinho.
+
+-
