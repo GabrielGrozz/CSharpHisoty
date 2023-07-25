@@ -15,7 +15,7 @@ namespace Course
         {
             double a = 10;
             double b = 5;
-
+            
             //essa seria a forma de utilizarmos o delegate, aqui estou usando ele para fazer referencia para um método da nossa classe
             //só relembrando que não invocamos a função aqui, apenas passamos como referencia
             BinaryNumericOperation op = CalcutationService.Soma;
@@ -23,6 +23,9 @@ namespace Course
             //assim podemos chamar o método de uma forma menos verbosa
             //aqui é aonde iremo utiliza-la, assim sendo necessário invoca-la
             Console.WriteLine(op(a,b));
+
+            //podemos utilizar outra sintaxe com o inke tbm
+            Console.WriteLine(op.Invoke(a,b));
 
             //não podemos chamar outros método que não possuam menos ou mais de um parametro, pois no nosso delegate passamos dois
 
