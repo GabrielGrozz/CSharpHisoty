@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\CSharpHisoty\Action\Action\bin\Debug\net7.0\Action.exe
+C:\Users\Usuário\source\repos\CSharpHisoty\Action\Action\bin\Debug\net7.0\Action.deps.json
+C:\Users\Usuário\source\repos\CSharpHisoty\Action\Action\bin\Debug\net7.0\Action.runtimeconfig.json
+C:\Users\Usuário\source\repos\CSharpHisoty\Action\Action\bin\Debug\net7.0\Action.dll
+C:\Users\Usuário\source\repos\CSharpHisoty\Action\Action\bin\Debug\net7.0\Action.pdb
+C:\Users\Usuário\source\repos\CSharpHisoty\Action\Action\obj\Debug\net7.0\Action.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\CSharpHisoty\Action\Action\obj\Debug\net7.0\Action.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\CSharpHisoty\Action\Action\obj\Debug\net7.0\Action.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\CSharpHisoty\Action\Action\obj\Debug\net7.0\Action.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\CSharpHisoty\Action\Action\obj\Debug\net7.0\Action.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\CSharpHisoty\Action\Action\obj\Debug\net7.0\Action.dll
+C:\Users\Usuário\source\repos\CSharpHisoty\Action\Action\obj\Debug\net7.0\refint\Action.dll
+C:\Users\Usuário\source\repos\CSharpHisoty\Action\Action\obj\Debug\net7.0\Action.pdb
+C:\Users\Usuário\source\repos\CSharpHisoty\Action\Action\obj\Debug\net7.0\Action.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\CSharpHisoty\Action\Action\obj\Debug\net7.0\ref\Action.dll
