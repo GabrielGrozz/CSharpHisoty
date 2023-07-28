@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\CSharpHisoty\Consulta2\Consulta1\bin\Debug\net7.0\Consulta2.exe
+C:\Users\Usuário\source\repos\CSharpHisoty\Consulta2\Consulta1\bin\Debug\net7.0\Consulta2.deps.json
+C:\Users\Usuário\source\repos\CSharpHisoty\Consulta2\Consulta1\bin\Debug\net7.0\Consulta2.runtimeconfig.json
+C:\Users\Usuário\source\repos\CSharpHisoty\Consulta2\Consulta1\bin\Debug\net7.0\Consulta2.dll
+C:\Users\Usuário\source\repos\CSharpHisoty\Consulta2\Consulta1\bin\Debug\net7.0\Consulta2.pdb
+C:\Users\Usuário\source\repos\CSharpHisoty\Consulta2\Consulta1\obj\Debug\net7.0\Consulta2.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\CSharpHisoty\Consulta2\Consulta1\obj\Debug\net7.0\Consulta2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\CSharpHisoty\Consulta2\Consulta1\obj\Debug\net7.0\Consulta2.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\CSharpHisoty\Consulta2\Consulta1\obj\Debug\net7.0\Consulta2.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\CSharpHisoty\Consulta2\Consulta1\obj\Debug\net7.0\Consulta2.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\CSharpHisoty\Consulta2\Consulta1\obj\Debug\net7.0\Consulta2.dll
+C:\Users\Usuário\source\repos\CSharpHisoty\Consulta2\Consulta1\obj\Debug\net7.0\refint\Consulta2.dll
+C:\Users\Usuário\source\repos\CSharpHisoty\Consulta2\Consulta1\obj\Debug\net7.0\Consulta2.pdb
+C:\Users\Usuário\source\repos\CSharpHisoty\Consulta2\Consulta1\obj\Debug\net7.0\Consulta2.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\CSharpHisoty\Consulta2\Consulta1\obj\Debug\net7.0\ref\Consulta2.dll
