@@ -1,4 +1,4 @@
-﻿namespace Consulta1.Entities
+﻿ namespace Consulta1.Entities
 {
     internal class Category
     {
