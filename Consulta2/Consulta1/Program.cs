@@ -1,4 +1,5 @@
 ﻿using Consulta1.Entities;
+using System.Security.Cryptography.X509Certificates;
 
 Category c1 = new Category(1, "Tools", 2);
 Category c2 = new Category(2, "Computers", 1);
@@ -50,3 +51,10 @@ Console.WriteLine(value5);
 
 Console.WriteLine(' ');
 
+//podemos também criar nossa própria operação personalizada
+//basicamente serve como um acumulador o valor x é o primeiro, y o segundo, dai o segundo valor vira o primeiro e o laço se repete
+var value6 = products.Where(x => x.ProductCategory.Tier ==1 ).Select(x => x.Price).Aggregate((x,y) => x + y);
+Console.WriteLine(value6);
+
+// pórem caso rodemos um aggregate em um source vazio, iremos precisar tratalo com um valor inicial
+var value7 = products.Where(x => x.ProductCategory.Tier == 8).Select(x => x.Price).Aggregate(0.0,(x, y) => x + y);
