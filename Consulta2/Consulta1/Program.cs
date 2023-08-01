@@ -53,8 +53,22 @@ Console.WriteLine(' ');
 
 //podemos também criar nossa própria operação personalizada
 //basicamente serve como um acumulador o valor x é o primeiro, y o segundo, dai o segundo valor vira o primeiro e o laço se repete
-var value6 = products.Where(x => x.ProductCategory.Tier ==1 ).Select(x => x.Price).Aggregate((x,y) => x + y);
+var value6 = products.Where(x => x.ProductCategory.Tier == 1).Select(x => x.Price).Aggregate((x, y) => x + y);
 Console.WriteLine(value6);
 
 // pórem caso rodemos um aggregate em um source vazio, iremos precisar tratalo com um valor inicial
-var value7 = products.Where(x => x.ProductCategory.Tier == 8).Select(x => x.Price).Aggregate(0.0,(x, y) => x + y);
+var value7 = products.Where(x => x.ProductCategory.Tier == 8).Select(x => x.Price).Aggregate(0.0, (x, y) => x + y);
+
+//e ainda podemos agrupar tudo isso. Com o GroupBy podemos definir pelo oque ele irá agrupar
+var value8 = products.GroupBy(x => x.ProductCategory);
+//isso nos retorna um IGrouping, que é um tipo de chave e valor
+//no nosso caso, o IGrouping é filtrado pela categoria
+foreach (IGrouping<Category, Product> prod in value8)
+{
+    Console.WriteLine($"categoria - {prod.Key.Name}, " );
+    foreach(var item in prod)
+    {
+        Console.WriteLine($"{item.Id}, {item.Name}, {item.Price}");
+    }
+    Console.WriteLine();
+}
