@@ -1,0 +1,15 @@
+D:\dev\C#\CSharpHisoty\LINQPROJECT\LINQPROJECT\bin\Debug\net7.0\LINQPROJECT.exe
+D:\dev\C#\CSharpHisoty\LINQPROJECT\LINQPROJECT\bin\Debug\net7.0\LINQPROJECT.deps.json
+D:\dev\C#\CSharpHisoty\LINQPROJECT\LINQPROJECT\bin\Debug\net7.0\LINQPROJECT.runtimeconfig.json
+D:\dev\C#\CSharpHisoty\LINQPROJECT\LINQPROJECT\bin\Debug\net7.0\LINQPROJECT.dll
+D:\dev\C#\CSharpHisoty\LINQPROJECT\LINQPROJECT\bin\Debug\net7.0\LINQPROJECT.pdb
+D:\dev\C#\CSharpHisoty\LINQPROJECT\LINQPROJECT\obj\Debug\net7.0\LINQPROJECT.csproj.AssemblyReference.cache
+D:\dev\C#\CSharpHisoty\LINQPROJECT\LINQPROJECT\obj\Debug\net7.0\LINQPROJECT.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\CSharpHisoty\LINQPROJECT\LINQPROJECT\obj\Debug\net7.0\LINQPROJECT.AssemblyInfoInputs.cache
+D:\dev\C#\CSharpHisoty\LINQPROJECT\LINQPROJECT\obj\Debug\net7.0\LINQPROJECT.AssemblyInfo.cs
+D:\dev\C#\CSharpHisoty\LINQPROJECT\LINQPROJECT\obj\Debug\net7.0\LINQPROJECT.csproj.CoreCompileInputs.cache
+D:\dev\C#\CSharpHisoty\LINQPROJECT\LINQPROJECT\obj\Debug\net7.0\LINQPROJECT.dll
+D:\dev\C#\CSharpHisoty\LINQPROJECT\LINQPROJECT\obj\Debug\net7.0\refint\LINQPROJECT.dll
+D:\dev\C#\CSharpHisoty\LINQPROJECT\LINQPROJECT\obj\Debug\net7.0\LINQPROJECT.pdb
+D:\dev\C#\CSharpHisoty\LINQPROJECT\LINQPROJECT\obj\Debug\net7.0\LINQPROJECT.genruntimeconfig.cache
+D:\dev\C#\CSharpHisoty\LINQPROJECT\LINQPROJECT\obj\Debug\net7.0\ref\LINQPROJECT.dll
