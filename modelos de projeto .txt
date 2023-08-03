@@ -1,0 +1,13 @@
+temos as aplicações com web services, que seriam o front fazendo a comunicação com o back atraves de request com ajax
+por exemplo, que irá comunicar com o controller que se comunica com o o back/model, e o back retornar uma response para
+o front em um formato de texto, como o JSON.
+
+e temos o modelo de template engine, no caso seria o front comunicando com o back atraves de uma requisição, que comunica
+um controller que se comunica com o back/model, o back nos retorna um template engine( que seriam as telas ) e que retorna
+um html para o front.
+
+------ 	MVC	
+é um modelo de projeto que se divide em três partes: model, view e controller
+model - seria a estrutura dos dados, o coração do projeto de certa forma, ele quem faz as regras de projeto e afins;
+controller - faz a comunicação do back com o front, a parte que irá tratar as requisições;
+view- seria o front, a parte visual do projeto.
