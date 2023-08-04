@@ -1,0 +1,5 @@
+o Entitity Framework server para termos uma comunicação estável de um programa orientado a objetos a um banco
+de dados relacional
+
+funciona com o ORM(object relational mapping), ele nos permite que escrevemos o código em POO e comunicar com o
+banco relacional
