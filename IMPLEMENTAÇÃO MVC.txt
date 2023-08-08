@@ -1,0 +1,7 @@
+No padrão mvc temos algumas funcionalidades que nos ajudam na produtividade:
+View Engine: é responsável por renderizar a View em html;
+Model Binding: direciona o request http para o controller;
+Tag helper: componentes reutilizaveis;
+Routing: direciona o request http para o controller;
+Scaffolding: tecnica para gerar código em tempo de projeto.
+ 
