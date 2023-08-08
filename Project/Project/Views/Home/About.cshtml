@@ -1,7 +1,12 @@
-﻿@{
+﻿@*quando usamos @{} iremo abrir um espaço exclusivo para código em c#, defora desse espaço será html*@
+@{
+    //podemos declarar nosssas viewdata tanto aqui quanto no controller
     ViewData["Title"] = "About";
 }
+@*podemos usar código c# interpolado com html quando usamos o @nomeDoAtributo["nomeDoDado"]*@
 <h2>@ViewData["Title"]</h2>
 <h3>@ViewData["Message"]</h3>
 
 <p>Use this area to provide additional information.</p>
+
+@*dai quando retornamos o View no nosso controller, irá ser retornada essa template, mas claro, transformado em html*@
