@@ -1,4 +1,7 @@
-﻿namespace PROJETOMVC;
+﻿using Microsoft.EntityFrameworkCore;
+using PROJETOMVC.Context;
+
+namespace PROJETOMVC;
 public class Startup
 {
     public Startup(IConfiguration configuration)
@@ -11,6 +14,8 @@ public class Startup
     // This method gets called by the runtime. Use this method to add services to the container.
     public void ConfigureServices(IServiceCollection services)
     {
+        services.AddDbContext<AppDbContext>(op =>
+        op.UseSqlServer(Configuration.GetConnectionString(@"Data Source = gabrielt\sqlexpress; Initial Catalog = LanchesProject; Integrated Security = True")));
         services.AddControllersWithViews();
     }
 
