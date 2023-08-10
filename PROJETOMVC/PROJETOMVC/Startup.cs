@@ -15,7 +15,7 @@ public class Startup
     public void ConfigureServices(IServiceCollection services)
     {
         services.AddDbContext<AppDbContext>(op =>
-        op.UseSqlServer(Configuration.GetConnectionString(@"Data Source = gabrielt\sqlexpress; Initial Catalog = LanchesProject; Integrated Security = True")));
+        op.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
         services.AddControllersWithViews();
     }
 
