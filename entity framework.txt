@@ -3,3 +3,8 @@ de dados relacional
 
 funciona com o ORM(object relational mapping), ele nos permite que escrevemos o código em POO e comunicar com o
 banco relacional
+
+nele temos duas classes principais, o bdcontext, que é responsável pela conexão com o banco de dados, suas operações
+e mapear os dados, assim como manter a persistencias
+
+um dbcontext, pode ter 1 ou mais dbset, que são as tabelas, uma coleção para a entiedade.
