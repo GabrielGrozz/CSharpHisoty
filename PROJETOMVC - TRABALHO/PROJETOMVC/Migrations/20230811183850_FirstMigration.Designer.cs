@@ -11,8 +11,8 @@ using PROJETOMVC.Context;
 namespace PROJETOMVC.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20230810201515_First-test")]
-    partial class Firsttest
+    [Migration("20230811183850_FirstMigration")]
+    partial class FirstMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -28,27 +28,31 @@ namespace PROJETOMVC.Migrations
                 {
                     b.Property<int>("CategoryId")
                         .ValueGeneratedOnAdd()
+                        .HasMaxLength(100)
                         .HasColumnType("int");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CategoryId"));
 
                     b.Property<string>("Description")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(300)
+                        .HasColumnType("nvarchar(300)");
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(150)
+                        .HasColumnType("nvarchar(150)");
 
                     b.HasKey("CategoryId");
 
-                    b.ToTable("Categories");
+                    b.ToTable("Categorias");
                 });
 
             modelBuilder.Entity("PROJETOMVC.Models.Lunch", b =>
                 {
                     b.Property<int>("LunchId")
                         .ValueGeneratedOnAdd()
+                        .HasMaxLength(100)
                         .HasColumnType("int");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("LunchId"));
@@ -58,38 +62,43 @@ namespace PROJETOMVC.Migrations
 
                     b.Property<string>("ImageThumbUR")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)");
 
                     b.Property<string>("ImageURL")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)");
 
                     b.Property<bool>("InStock")
                         .HasColumnType("bit");
 
                     b.Property<string>("LongDescription")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
 
                     b.Property<string>("Name")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
 
                     b.Property<bool>("Preferred")
                         .HasColumnType("bit");
 
                     b.Property<decimal>("Price")
-                        .HasColumnType("decimal(18,2)");
+                        .HasColumnType("decimal(10,2)");
 
                     b.Property<string>("ShortDescription")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)");
 
                     b.HasKey("LunchId");
 
                     b.HasIndex("CategoryId");
 
-                    b.ToTable("Lunchs");
+                    b.ToTable("Lanches");
                 });
 
             modelBuilder.Entity("PROJETOMVC.Models.Lunch", b =>

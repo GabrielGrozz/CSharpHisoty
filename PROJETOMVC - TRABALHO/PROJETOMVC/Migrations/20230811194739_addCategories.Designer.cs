@@ -11,8 +11,8 @@ using PROJETOMVC.Context;
 namespace PROJETOMVC.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20230811121923_projetoLanches")]
-    partial class projetoLanches
+    [Migration("20230811194739_addCategories")]
+    partial class addCategories
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
