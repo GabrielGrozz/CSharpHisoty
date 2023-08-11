@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vijXUJZtMqP+FdFP4uYoXhYN6wMVxjF8zpPta5F93g17ie4344XauvOwMgkO41UhDywi5CU4pNUwuQwYW1m2Eg==",
+  "dgSpecHash": "MSV+1/0jExC+wlxlpMCLIAoXoyaqGMciNoq98NwCc/IRNxsLMDezaRGrb6g2kpxRO26ke/EWbj480yJbBFob2A==",
   "success": true,
-  "projectFilePath": "D:\\dev\\C#\\CSharpHisoty\\PROJETOMVC\\PROJETOMVC\\PROJETOMVC.csproj",
+  "projectFilePath": "D:\\dev\\C#\\CSharpHisoty\\PROJETOMVC - CASA\\PROJETOMVC\\PROJETOMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
