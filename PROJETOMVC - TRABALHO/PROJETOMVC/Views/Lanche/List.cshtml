@@ -14,10 +14,15 @@
 </p>
 <h1 style="text-align: center; margin-bottom: 50px">Todos os lanches</h1>
 
-@foreach(var lanche in Model){
-    <div class="lunchs">
-        <h4> Lanche : @lanche.Name</h4>
-        <p><img src="https://th.bing.com/th/id/OIP.aoRZYH65wJCiz2SDTo46nQHaE8?pid=ImgDet&rs=1" /></p>
-        <p>Preço : @lanche.Price.ToString("c")</p>
+<div class="container">
+    <div class="row">
+        @foreach (var lanche in Model)
+        {
+            <div class="lunchs col-sm-4 col-md-4 col-lg-4">
+                <h4> Lanche : @lanche.Name</h4>
+                <p><img src="https://th.bing.com/th/id/OIP.aoRZYH65wJCiz2SDTo46nQHaE8?pid=ImgDet&rs=1" class="img-fluid" /></p>
+                <p>Preço : @lanche.Price.ToString("c")</p>
+            </div>
+        }
     </div>
-}
+</div>
