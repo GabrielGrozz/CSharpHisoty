@@ -8,6 +8,9 @@ namespace PROJETOMVC.Controllers
     {
         public IActionResult Index()
         {
+            //essa seria uma tempdata, podemos definila em um controlador diferente e acessar ele em outra view diferente da home, mas
+            //é necessário acessar a view onde o tempdata esta setado antes, pois ele é removido automaticamente após o valor ser recuperado
+            TempData["valortemp"] = "para isso aparecer precisa ser acessado o home antes";
             return View();
         }
 
