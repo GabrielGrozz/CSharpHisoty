@@ -19,11 +19,9 @@ body {
 
 .lunchs{
     text-align: center;
-    margin-bottom:50px
-        
+    margin-bottom:50px;
 }
-
-.lunch-images{
-    width:350px;
-    height:250px;
+.lunch-images {
+    width: 350px;
+    height: 250px;
 }
