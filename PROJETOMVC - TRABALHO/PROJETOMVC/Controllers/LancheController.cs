@@ -3,6 +3,7 @@ using Microsoft.Identity.Client;
 using Microsoft.IdentityModel.Tokens;
 using PROJETOMVC.Repository;
 using PROJETOMVC.Repository.Interfaces;
+using PROJETOMVC.ViewModel;
 
 namespace PROJETOMVC.Controllers
 {
@@ -23,8 +24,12 @@ namespace PROJETOMVC.Controllers
             //aqui temos a viewbag, ela não requer uma conversão de tipos
             ViewBag.numero = "42208922";
 
-            var lanches = _lunchRepository.Lanches;
-            return View(lanches);
+            //usando viewmodel
+            var lanchesViewModel = new LunchListViewModel();
+            lanchesViewModel.lanches = _lunchRepository.Lanches;
+            lanchesViewModel.categoria = "default --";
+
+            return View(lanchesViewModel);
         }
     }
 }
