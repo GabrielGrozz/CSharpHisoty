@@ -1,0 +1,20 @@
+﻿@model IEnumerable<PROJETOMVC.Models.Lunch>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+<h1>List</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<h1 style="text-align: center; margin-bottom: 50px">Todos os lanches</h1>
+
+@foreach(var lanche in Model){
+    <div class="lunchs">
+        <h4>@lanche.Name</h4>
+        <p><img class="lunch-images" src="https://th.bing.com/th/id/OIP.aoRZYH65wJCiz2SDTo46nQHaE8?pid=ImgDet&rs=1" /></p>
+        <p><strong> Preço : @lanche.Price.ToString("c")</strong></p>
+    </div>
+}
