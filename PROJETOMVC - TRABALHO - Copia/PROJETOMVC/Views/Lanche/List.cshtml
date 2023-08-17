@@ -15,11 +15,7 @@
     <div class="row">
         @foreach (var lanche in Model.Lanches)
         {
-            <div class="lunchs col-sm-4 col-md-4 col-lg-4">
-                <h4>@lanche.Name</h4>
-                <p><img class="lunch-images" src="https://th.bing.com/th/id/OIP.aoRZYH65wJCiz2SDTo46nQHaE8?pid=ImgDet&rs=1" /></p>
-                <p><strong> Preço : @lanche.Price.ToString("c")</strong></p>
-            </div>
+            <partial name="_ViewlanchesResumo" for="@lanche"/>
         }
 
     </div>
