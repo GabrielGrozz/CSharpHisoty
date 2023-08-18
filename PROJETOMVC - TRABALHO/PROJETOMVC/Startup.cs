@@ -1,4 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Caching.Distributed;
+using Microsoft.Extensions.DependencyInjection.Extensions;
 using PROJETOMVC.Context;
 using PROJETOMVC.Repository;
 using PROJETOMVC.Repository.Interfaces;
@@ -16,9 +18,16 @@ public class Startup
     // This method gets called by the runtime. Use this method to add services to the container.
     public void ConfigureServices(IServiceCollection services)
     {
+        //criamos e abilitamos o cache e a sessão
+        services.AddMemoryCache();
+        services.AddSession();
+
+        //criamos um serviço que irá nos dar acesso as informações do request
+        services.TryAddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
         services.AddTransient<ILunchRepository, LunchRepository>();
         services.AddTransient<ICategoryRepository, CategoryRepository>();
-
+        
         services.AddDbContext<AppDbContext>(op =>
         op.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
         services.AddControllersWithViews();
@@ -27,6 +36,7 @@ public class Startup
     // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
     public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
     {
+        app.UseSession();
         if (env.IsDevelopment())
         {
             app.UseDeveloperExceptionPage();

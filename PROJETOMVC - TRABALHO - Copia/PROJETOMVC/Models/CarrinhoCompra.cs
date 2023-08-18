@@ -1,4 +1,5 @@
-﻿using PROJETOMVC.Context;
+﻿using Microsoft.EntityFrameworkCore;
+using PROJETOMVC.Context;
 
 namespace PROJETOMVC.Models
 {
@@ -55,7 +56,7 @@ namespace PROJETOMVC.Models
             }
             else
             {
-                carrinhoCompraItem.Quantidade ++;
+                carrinhoCompraItem.Quantidade++;
             }
 
             _context.SaveChanges();
@@ -72,12 +73,36 @@ namespace PROJETOMVC.Models
                 carrinhoCompraItem.Quantidade--;
                 qunatidadeLocal = carrinhoCompraItem.Quantidade;
 
-            }else
+            }
+            else
             {
                 _context.carrinhoCompraItens.Remove(carrinhoCompraItem);
             }
             _context.SaveChanges();
             return qunatidadeLocal;
+        }
+
+        public List<CarrinhoCompraItem> GetCarrinhoCompraItens()
+        {
+            return CarrinhoCompraItens ?? (CarrinhoCompraItens =
+                _context.carrinhoCompraItens.Where(c => c.CarrinhoCompraId == CarrinhoCompraId).Include(s => s.Lanche).ToList());
+
+        }
+
+        public void LimparCarrinho()
+        {
+            var carrinhoItens = _context.carrinhoCompraItens.Where(x => x.CarrinhoCompraId == CarrinhoCompraId);
+
+            _context.carrinhoCompraItens.RemoveRange(carrinhoItens);
+
+            _context.SaveChanges();
+        }
+
+        public decimal GetCarrinhoCompraTotal()
+        {
+            var total = _context.carrinhoCompraItens.Where(x => x.CarrinhoCompraId == CarrinhoCompraId)
+                .Select(x => x.Lanche.Price).Sum();
+            return total;
         }
 
     }
