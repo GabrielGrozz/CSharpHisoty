@@ -12,5 +12,6 @@ namespace PROJETOMVC.Context
 
         public DbSet<Lunch> Lunchs { get; set; }
         public DbSet<Category> Categories { get; set; }
+        public DbSet<CarrinhoCompraItem> carrinhoCompraItens { get; set; }
     }
 }
