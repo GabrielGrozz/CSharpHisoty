@@ -1,6 +1,5 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿@model HomeViewModel
+
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
@@ -9,3 +8,11 @@
 
 @*esse é o modo que iremos usar para exibirmos componentes reutilizaveis*@
 <partial name="_Carousel"/>
+
+<h1>LANCHES PREFERIDOS PELOS CLIENTES!!!</h1>
+<div>
+    @foreach(var lanches in Model.Preferidos)
+    {
+        <partial name="_ViewLanchesResumo" for="@lanches" />
+    }
+</div>
