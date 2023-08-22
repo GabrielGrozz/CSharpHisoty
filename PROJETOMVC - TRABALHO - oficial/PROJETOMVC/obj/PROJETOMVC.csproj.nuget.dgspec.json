@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\dev\\C#\\CSharpHisoty\\PROJETOMVC - CASA\\PROJETOMVC\\PROJETOMVC.csproj": {}
+    "D:\\dev\\C#\\CSharpHisoty\\PROJETOMVC - TRABALHO - oficial\\PROJETOMVC\\PROJETOMVC.csproj": {}
   },
   "projects": {
-    "d:\\dev\\C#\\CSharpHisoty\\PROJETOMVC - CASA\\PROJETOMVC\\PROJETOMVC.csproj": {
+    "D:\\dev\\C#\\CSharpHisoty\\PROJETOMVC - TRABALHO - oficial\\PROJETOMVC\\PROJETOMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\dev\\C#\\CSharpHisoty\\PROJETOMVC - CASA\\PROJETOMVC\\PROJETOMVC.csproj",
+        "projectUniqueName": "D:\\dev\\C#\\CSharpHisoty\\PROJETOMVC - TRABALHO - oficial\\PROJETOMVC\\PROJETOMVC.csproj",
         "projectName": "PROJETOMVC",
-        "projectPath": "d:\\dev\\C#\\CSharpHisoty\\PROJETOMVC - CASA\\PROJETOMVC\\PROJETOMVC.csproj",
+        "projectPath": "D:\\dev\\C#\\CSharpHisoty\\PROJETOMVC - TRABALHO - oficial\\PROJETOMVC\\PROJETOMVC.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "d:\\dev\\C#\\CSharpHisoty\\PROJETOMVC - CASA\\PROJETOMVC\\obj\\",
+        "outputPath": "D:\\dev\\C#\\CSharpHisoty\\PROJETOMVC - TRABALHO - oficial\\PROJETOMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
