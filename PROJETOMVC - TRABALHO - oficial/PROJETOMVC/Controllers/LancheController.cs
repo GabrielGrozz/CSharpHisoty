@@ -48,9 +48,13 @@ namespace PROJETOMVC.Controllers
                     lanches = _lunchRepository.Lanches.Where(x => x.Category.Name == "Normal" ).OrderBy(x => x.Name);
                     
                 }
-                else
+                else if(string.Equals("Natural", categoria, StringComparison.OrdinalIgnoreCase))
                 {
                      lanches = _lunchRepository.Lanches.Where(x => x.Category.Name == "Natural").OrderBy(x => x.Name);
+                }
+                else
+                {
+                    throw new Exception("A categoria informada não existe");
                 }
             }
 

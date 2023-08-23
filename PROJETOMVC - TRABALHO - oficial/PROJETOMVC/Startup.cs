@@ -55,9 +55,31 @@ public class Startup
 
         app.UseEndpoints(endpoints =>
         {
-            endpoints.MapControllerRoute(
+            //rota de teste
+            endpoints.MapControllerRoute
+                (
+                    //nome da nossa rota
+                    name: "teste",
+                    //o padrão dela, que no caso será o valor que iremos ioncluir na url
+                    pattern: "testeme",
+                    //por default essa rota irá acessar o controller teste na action Index
+                    defaults: new { controller = "Teste", Action = "Index" }
+                );
+
+            endpoints.MapControllerRoute
+                (
+                    name: "admin",
+                    pattern: "admin/{action=Index}/{id?}",
+                    defaults: new { controlller = "admin" }
+                );
+
+
+            //rota padrão
+            endpoints.MapControllerRoute
+            (
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Home}/{action=Index}/{id?}"
+            );
         });
     }
 }
