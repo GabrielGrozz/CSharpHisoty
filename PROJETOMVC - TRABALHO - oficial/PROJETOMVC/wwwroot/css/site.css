@@ -26,3 +26,14 @@ body {
     height: 250px;
     
 }
+
+.details-content{
+    background:rgb(238, 236, 236);
+    padding:2%
+
+}
+
+dd,dt{
+    border:solid gray 1px;
+    margin:2px 0
+}
