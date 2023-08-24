@@ -57,7 +57,7 @@ namespace PROJETOMVC.Controllers
                 //    throw new Exception("A categoria informada não existe");
 
                 //aqui usamos uma lógica melhor para filtrar os lanches, basicamente caso a categoria seja diferente de null iremos retornar todo os lanches da categoria passada
-                lanches = _lunchRepository.Lanches.Where(x => x.CategoryId.Equals(categoria)).OrderBy(x => x.Name);
+                lanches = _lunchRepository.Lanches.Where(x => x.Category.Name.Equals(categoria)).OrderBy(x => x.Name);
             }
 
             var lanchesListViewModel = new LunchListViewModel
@@ -68,6 +68,13 @@ namespace PROJETOMVC.Controllers
 
 
             return View(lanchesListViewModel);
+        }
+
+        public ActionResult Details(int lunchId) 
+        {
+            var repository = _lunchRepository;
+            Lunch lanche = repository.Lanches.FirstOrDefault(l => l.LunchId == lunchId);
+            return View(lanche);
         }
     }
 }
