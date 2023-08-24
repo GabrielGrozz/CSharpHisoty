@@ -43,19 +43,21 @@ namespace PROJETOMVC.Controllers
             }
             else
             {
-                if (string.Equals("Normal", categoria, StringComparison.OrdinalIgnoreCase))
-                {
-                    lanches = _lunchRepository.Lanches.Where(x => x.Category.Name == "Normal" ).OrderBy(x => x.Name);
-                    
-                }
-                else if(string.Equals("Natural", categoria, StringComparison.OrdinalIgnoreCase))
-                {
-                     lanches = _lunchRepository.Lanches.Where(x => x.Category.Name == "Natural").OrderBy(x => x.Name);
-                }
-                else
-                {
-                    throw new Exception("A categoria informada não existe");
-                }
+                //if (string.Equals("Normal", categoria, StringComparison.OrdinalIgnoreCase))
+                //{
+                //    lanches = _lunchRepository.Lanches.Where(x => x.Category.Name == "Normal" ).OrderBy(x => x.Name);
+
+                //}
+                //else if(string.Equals("Natural", categoria, StringComparison.OrdinalIgnoreCase))
+                //{
+                //     lanches = _lunchRepository.Lanches.Where(x => x.Category.Name == "Natural").OrderBy(x => x.Name);
+                //}
+                //else
+                //{
+                //    throw new Exception("A categoria informada não existe");
+
+                //aqui usamos uma lógica melhor para filtrar os lanches, basicamente caso a categoria seja diferente de null iremos retornar todo os lanches da categoria passada
+                lanches = _lunchRepository.Lanches.Where(x => x.CategoryId.Equals(categoria)).OrderBy(x => x.Name);
             }
 
             var lanchesListViewModel = new LunchListViewModel
@@ -69,3 +71,4 @@ namespace PROJETOMVC.Controllers
         }
     }
 }
+
