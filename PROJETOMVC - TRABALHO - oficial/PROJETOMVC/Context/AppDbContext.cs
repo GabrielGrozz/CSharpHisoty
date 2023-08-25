@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using LanchesMac.Models;
+using Microsoft.EntityFrameworkCore;
 using PROJETOMVC.Models;
 
 namespace PROJETOMVC.Context
@@ -12,6 +13,8 @@ namespace PROJETOMVC.Context
 
         public DbSet<Lunch> Lunchs { get; set; }
         public DbSet<Category> Categories { get; set; }
-        public DbSet<CarrinhoCompraItem> carrinhoCompraItens { get; set; }
+        public DbSet<Pedido> Pedido{ get; set; }
+        public DbSet<PedidoDetalhe> PedidoDetalhe{ get; set; }
+
     }
 }

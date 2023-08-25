@@ -21,32 +21,6 @@ namespace PROJETOMVC.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("PROJETOMVC.Models.CarrinhoCompraItem", b =>
-                {
-                    b.Property<int>("CarrinhoCompraItemId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CarrinhoCompraItemId"));
-
-                    b.Property<string>("CarrinhoCompraId")
-                        .IsRequired()
-                        .HasMaxLength(200)
-                        .HasColumnType("nvarchar(200)");
-
-                    b.Property<int>("LancheLunchId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Quantidade")
-                        .HasColumnType("int");
-
-                    b.HasKey("CarrinhoCompraItemId");
-
-                    b.HasIndex("LancheLunchId");
-
-                    b.ToTable("CarrinhoCompraItens");
-                });
-
             modelBuilder.Entity("PROJETOMVC.Models.Category", b =>
                 {
                     b.Property<int>("CategoryId")
@@ -122,17 +96,6 @@ namespace PROJETOMVC.Migrations
                     b.HasIndex("CategoryId");
 
                     b.ToTable("Lanches");
-                });
-
-            modelBuilder.Entity("PROJETOMVC.Models.CarrinhoCompraItem", b =>
-                {
-                    b.HasOne("PROJETOMVC.Models.Lunch", "Lanche")
-                        .WithMany()
-                        .HasForeignKey("LancheLunchId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Lanche");
                 });
 
             modelBuilder.Entity("PROJETOMVC.Models.Lunch", b =>
