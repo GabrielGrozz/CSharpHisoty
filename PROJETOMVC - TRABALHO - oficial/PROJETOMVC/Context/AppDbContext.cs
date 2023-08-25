@@ -16,5 +16,6 @@ namespace PROJETOMVC.Context
         public DbSet<Pedido> Pedido{ get; set; }
         public DbSet<PedidoDetalhe> PedidoDetalhe{ get; set; }
 
+
     }
 }

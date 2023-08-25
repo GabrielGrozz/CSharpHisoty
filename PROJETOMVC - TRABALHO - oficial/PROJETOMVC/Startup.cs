@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using LanchesMac.Models;
+using Microsoft.EntityFrameworkCore;
 using PROJETOMVC.Context;
 using PROJETOMVC.Repository;
 using PROJETOMVC.Repository.Interfaces;
@@ -14,14 +15,14 @@ public class Startup
     public IConfiguration Configuration { get; }
 
     // This method gets called by the runtime. Use this method to add services to the container.
-    public void ConfigureServices(IServiceCollection services)
+    public void ConfigureServices(IServiceCollection services) 
     {   //configurando o middleware
         services.AddMemoryCache();
         services.AddSession();
 
-
         services.AddTransient<ILunchRepository, LunchRepository>();
         services.AddTransient<ICategoryRepository, CategoryRepository>();
+        services.AddTransient<IPedidoRepository, PedidoRepository>();
 
         //registrando o serviço para termos acesso aos dados da requisição
         services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();

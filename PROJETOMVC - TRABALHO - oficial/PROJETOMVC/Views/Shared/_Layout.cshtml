@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - PROJETOMVC</title>
+    <title>@ViewData["Title"] - LanchesGrózz</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/PROJETOMVC.styles.css" asp-append-version="true" />
@@ -11,9 +11,9 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3 p-4">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">PROJETOMVC</a>
+                <a class="navbar-brand fs-3" asp-area="" asp-controller="Home" asp-action="Index">LanchesGrózz</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -27,6 +27,11 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Contato" asp-action="Index">Contato</a>
                         </li>
+                        @*podemos usar um form, com isso iremos passar a solicitação que ele fizer pelos atributos asp*@
+                        <form class="navbar-form navbar-right" asp-controller="Lanche" asp-action="Search" method="get">
+                            @*                                                              o name deve ser igual ao parametro passado no controller*@
+                            <input type="text" class="form-control" placeholder="pesquisar" name="searchString" value="@ViewData["searchsString"]"/>                        
+                        </form>
                     </ul>
                 </div>
             </div>

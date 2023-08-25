@@ -70,6 +70,41 @@ namespace PROJETOMVC.Controllers
             return View(lanchesListViewModel);
         }
 
+        public ViewResult Search(string searchString)
+        {
+            IEnumerable<Lunch> lanches;
+            string categoriaAtual = string.Empty;
+            
+            //se o search for vazio ele retorna todos os lanches
+            if (string.IsNullOrEmpty(searchString))
+            {
+                lanches = _lunchRepository.Lanches.OrderBy(x => x.LunchId);
+                categoriaAtual = "Todos os lanches";
+            }
+            else
+            {
+                //caso tenha algo escrito iremos verificar em quais lanches essa sequencia de caracteres aparece e retornar eles
+                //caso nenhum tenha os caracteres iremos avisar que não contem lanches
+                lanches = _lunchRepository.Lanches.Where(l => l.Name.ToLower().Contains(searchString.ToLower()));
+                if(lanches.Any())
+                {
+                    categoriaAtual = "lanches!";
+                }
+                else
+                {
+                    categoriaAtual = "Não encontrado!";
+                }
+            }
+
+            //podemos retornar uma view diferente de deste método, mas alterando os valores que ela recebe
+            return View("~/Views/Lanche/List.cshtml", new LunchListViewModel
+            {
+                CategoriaAtual = categoriaAtual,
+                Lanches = lanches
+
+            });
+        }
+
         public ActionResult Details(int lunchId) 
         {
             var repository = _lunchRepository;

@@ -86,7 +86,7 @@ namespace craido_do_baco.Migrations
 
                     b.HasKey("PedidoId");
 
-                    b.ToTable("Pedido");
+                    b.ToTable("Pedido", (string)null);
                 });
 
             modelBuilder.Entity("PROJETOMVC.Models.Category", b =>
@@ -110,7 +110,7 @@ namespace craido_do_baco.Migrations
 
                     b.HasKey("CategoryId");
 
-                    b.ToTable("Categorias");
+                    b.ToTable("Categorias", (string)null);
                 });
 
             modelBuilder.Entity("PROJETOMVC.Models.Lunch", b =>
@@ -161,7 +161,7 @@ namespace craido_do_baco.Migrations
 
                     b.HasIndex("CategoryId");
 
-                    b.ToTable("Lanches");
+                    b.ToTable("Lanches", (string)null);
                 });
 
             modelBuilder.Entity("PROJETOMVC.Models.PedidoDetalhe", b =>
@@ -190,7 +190,7 @@ namespace craido_do_baco.Migrations
 
                     b.HasIndex("PedidoId");
 
-                    b.ToTable("PedidoDetalhe");
+                    b.ToTable("PedidoDetalhe", (string)null);
                 });
 
             modelBuilder.Entity("PROJETOMVC.Models.Lunch", b =>
