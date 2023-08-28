@@ -20,7 +20,14 @@ namespace PROJETOMVC.Controllers
         [HttpPost]
         public IActionResult Checkout(Pedido pedido) 
         { 
-            return View();
+            if(ModelState.IsValid) 
+            {
+                _pedidoRepository.CriarPedido(pedido);
+                ViewBag.Checkout = "Obrigado pelo seu pedido";
+
+                return View("~/Views/Pedido/CheckoutCompleto.cshtml", pedido);  
+            }
+            return View(pedido);
         }
     }
 }
