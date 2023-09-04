@@ -1,8 +1,10 @@
 ﻿using LanchesMac.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using PROJETOMVC.Context;
 using PROJETOMVC.Repository;
 using PROJETOMVC.Repository.Interfaces;
+using System.Data.Common;
 
 namespace PROJETOMVC;
 public class Startup
@@ -16,7 +18,14 @@ public class Startup
 
     // This method gets called by the runtime. Use this method to add services to the container.
     public void ConfigureServices(IServiceCollection services) 
-    {   //configurando o middleware
+    {   
+        services.AddDbContext<AppDbContext>(op =>
+        op.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+        services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
+
+        //configurando o middleware
+        services.AddControllersWithViews();
         services.AddMemoryCache();
         services.AddSession();
 
@@ -27,15 +36,15 @@ public class Startup
         //registrando o serviço para termos acesso aos dados da requisição
         services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
-        services.AddDbContext<AppDbContext>(op =>
-        op.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-        services.AddControllersWithViews();
     }
 
     // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
     public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
     {   //ativando o middleware
         app.UseSession();
+
+        app.UseAuthentication();
+        app.UseAuthorization();
 
         if (env.IsDevelopment())
         {
