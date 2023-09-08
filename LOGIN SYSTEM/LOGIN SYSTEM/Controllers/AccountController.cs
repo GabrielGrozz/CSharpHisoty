@@ -17,7 +17,7 @@ namespace LOGIN_SYSTEM.Controllers
 
         //essa será a nossa view onde iremos efetuar o login
         [HttpGet]
-        public IActionResult Login(string returnUrl)
+        public IActionResult Login(string? returnUrl)
         {
             return View(new LoginViewModel
             {

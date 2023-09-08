@@ -90,3 +90,95 @@ C:\Users\Usuário\source\repos\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\
 C:\Users\Usuário\source\repos\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\Usuário\source\repos\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\Usuário\source\repos\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\LOGIN SYSTEM.csproj.CopyComplete
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\appsettings.Development.json
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\appsettings.json
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\LOGIN SYSTEM.staticwebassets.runtime.json
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\LOGIN SYSTEM.exe
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\LOGIN SYSTEM.deps.json
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\LOGIN SYSTEM.runtimeconfig.json
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\LOGIN SYSTEM.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\LOGIN SYSTEM.pdb
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Azure.Core.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Azure.Identity.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Humanizer.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\System.CodeDom.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\System.Memory.Data.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\System.Text.Json.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\LOGIN SYSTEM.csproj.AssemblyReference.cache
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\LOGIN SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\LOGIN SYSTEM.AssemblyInfoInputs.cache
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\LOGIN SYSTEM.AssemblyInfo.cs
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\LOGIN SYSTEM.csproj.CoreCompileInputs.cache
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\LOGIN SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\LOGIN SYSTEM.RazorAssemblyInfo.cache
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\LOGIN SYSTEM.RazorAssemblyInfo.cs
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\staticwebassets\msbuild.LOGIN SYSTEM.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\staticwebassets\msbuild.build.LOGIN SYSTEM.props
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LOGIN SYSTEM.props
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LOGIN SYSTEM.props
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\staticwebassets.pack.json
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\staticwebassets.build.json
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\staticwebassets.development.json
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\scopedcss\bundle\LOGIN SYSTEM.styles.css
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\scopedcss\projectbundle\LOGIN SYSTEM.bundle.scp.css
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\LOGIN SYSTEM.csproj.CopyComplete
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\LOGIN SYSTEM.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\refint\LOGIN SYSTEM.dll
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\LOGIN SYSTEM.pdb
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\LOGIN SYSTEM.genruntimeconfig.cache
+D:\dev\C#\CSharpHisoty\LOGIN SYSTEM\LOGIN SYSTEM\obj\Debug\net6.0\ref\LOGIN SYSTEM.dll
