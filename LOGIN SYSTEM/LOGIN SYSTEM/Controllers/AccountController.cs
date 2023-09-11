@@ -37,7 +37,7 @@ namespace LOGIN_SYSTEM.Controllers
             var user = await _userManager.FindByNameAsync(loginViewModel.UserName);
 
             //se o nome for diferente de null 
-            if(user != null)
+            if (user != null)
             {
                 var result = await _signInManager.PasswordSignInAsync(user, loginViewModel.Password, false, false);
                 if (result.Succeeded)
@@ -54,5 +54,38 @@ namespace LOGIN_SYSTEM.Controllers
             ModelState.AddModelError("", "Falhar ao realizar login");
             return View(loginViewModel);
         }
+
+        [HttpGet]
+        public IActionResult Register()
+        {
+            return View();
+        }
+
+        //nosso método para registrar um usuario
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Register(LoginViewModel registroVM)
+        {
+            //caso aconteça tudo certo
+            if (ModelState.IsValid)
+            {
+                var user = new IdentityUser { UserName = registroVM.UserName };
+                var result = await _userManager.CreateAsync(user, registroVM.Password);
+
+                if (result.Succeeded)
+                {
+                   // await _signInManager.SignInAsync(user, isPersistent: false);
+                    return RedirectToAction("Login", "Account");
+                }
+                else
+                {
+                    this.ModelState.AddModelError("Registro", "Falha ao registrar o usuário");
+                }
+            }
+                return View(registroVM);     
+        }
+
+
+
     }
 }

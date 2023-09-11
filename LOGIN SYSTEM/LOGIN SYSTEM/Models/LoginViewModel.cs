@@ -17,5 +17,6 @@ namespace LOGIN_SYSTEM.Models
         
         //a returnurl é a url da ultima página que abrimos
         public string ReturnUrl { get; set; }
+
     }
 }
