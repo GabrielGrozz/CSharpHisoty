@@ -85,6 +85,13 @@ namespace LOGIN_SYSTEM.Controllers
                 return View(registroVM);     
         }
 
+        public async Task<IActionResult> Logout()
+        {
+            await _signInManager.SignOutAsync();
+
+            return RedirectToAction("Index", "Home");
+        }
+
 
 
     }
