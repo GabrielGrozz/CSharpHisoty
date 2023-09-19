@@ -63,6 +63,13 @@ public class Startup
 
             );
 
+            endpoints.MapControllerRoute
+            (
+                name: "areas",
+                pattern: "{area:exist}/{controller=Home}/{action=Index}/{id?}}"
+            );
+
+
             //rota padrão
             endpoints.MapControllerRoute
             (
