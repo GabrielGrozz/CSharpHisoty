@@ -1,0 +1,35 @@
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\bin\Debug\net6.0\appsettings.json
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\bin\Debug\net6.0\idk project.staticwebassets.runtime.json
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\bin\Debug\net6.0\idk project.exe
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\bin\Debug\net6.0\idk project.deps.json
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\bin\Debug\net6.0\idk project.runtimeconfig.json
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\bin\Debug\net6.0\idk project.dll
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\bin\Debug\net6.0\idk project.pdb
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\idk project.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\idk project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\idk project.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\idk project.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\idk project.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\idk project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\idk project.RazorAssemblyInfo.cache
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\idk project.RazorAssemblyInfo.cs
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\staticwebassets\msbuild.idk project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\staticwebassets\msbuild.build.idk project.props
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.idk project.props
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.idk project.props
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\scopedcss\bundle\idk project.styles.css
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\scopedcss\projectbundle\idk project.bundle.scp.css
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\idk project.dll
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\refint\idk project.dll
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\idk project.pdb
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\idk project.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\ref\idk project.dll
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\bin\Debug\net6.0\PokeApiNet.dll
+C:\Users\Usuário\source\repos\CSharpHisoty\idk project\idk project\obj\Debug\net6.0\idk project.csproj.CopyComplete
